@@ -1,0 +1,193 @@
+Unnamed: 0,clinical_information,technique,findings,comparison,impression,report_id,base_model_answer,momento_model_answer
+4,Preoperative planning for brain tumor. History of a left temporal AVM treated with radiation.,"MRI BRAIN STEALTH W/WO CONTRAST. A total of 17.5 cc of Multihance was administered intravenously, with 2.5 cc wasted.","There is a heterogeneous left supratentorial and infratentorial lesion with associated cystic compartments, some of which contain fluid-fluid levels suggestive of hemorrhage. There is also surrounding vasogenic edema in the left cerebellar hemisphere. There is marked effacement of the fourth ventricle and dilatation of the third and fourth ventricles, which have increased in size slightly. There is also marked mass effect upon the brainstem. There is also a similar contiguous heterogeneous lesion within the left temporal and occipital lobes with surrounding vasogenic edema. There is no herniation. There are skin-based fiducial markers.",Brain MRI dated 11/17/14.,Presurgical planning MRI shows a complex mass in the left cerebellar hemisphere with associated obstructive hydrocephalus and a similar complex mass in the left temporo-occipital region. These lesions may represent radiation necrosis and perhaps vascular malformations with associated hemorrhage.,RAD_4,"assistant
+
+Key findings in this case include:
+
+1. **Complex mass in the left cerebellar hemisphere**: This suggests a potentially space-occupying lesion that may be causing obstructive hydrocephalus.
+2. **Obstructive hydrocephalus**: This indicates that the mass in the cerebellar hemisphere is causing blockage of cerebrospinal fluid (CSF) pathways, leading to increased intracranial pressure and potential brain damage.
+3. **Complex mass in the left temporo-occipital region**: This suggests another potentially space-occupying lesion that may be related to the cerebellar lesion or a separate entity.
+4. **Radiation necrosis and vascular malformations with associated hemorrhage**: These are potential differential diagnoses for the lesions, indicating possible damage to the brain tissue due to radiation therapy or congenital vascular abnormalities with bleeding.
+
+These findings suggest that the patient may require further diagnostic evaluation and possibly surgical intervention to alleviate symptoms and address the underlying causes of the lesions.","assistant
+
+Based on the provided context, the key findings in this case include:
+
+1. **Complex mass in the left cerebellar hemisphere**: This indicates a possible tumor, vascular malformation, or radiation necrosis within the cerebellum, which is the posterior part of the brain responsible for balance, coordination, and motor control.
+
+2. **Associated obstructive hydrocephalus**: This means that the mass is blocking the flow of cerebrospinal fluid (CSF), leading to an accumulation of CSF in the brain, which can cause increased intracranial pressure and potentially life-threatening complications.
+
+3. **Complex mass in the left temporo-occipital region**: This suggests another possible tumor, vascular malformation, or radiation necrosis in the temporal and occipital regions of the brain, which are involved in processing auditory information and visual perception, respectively.
+
+4. **Radiation necrosis and vascular malformations with associated hemorrhage**: These are potential causes of the masses seen in the cerebellar hemisphere and temporo-occipital region. Radiation necrosis is a condition that occurs when radiation therapy damages brain tissue, leading to necrosis (cell death). Vascular malformations are abnormal formations of blood vessels that can cause bleeding or other complications"
+6,Locally recurrent oral tongue squamous cell carcinoma referred here for consideration of clinical trial participation.,CT head and soft tissue neck with contrast. A total of 40 cc of Omnipaque was administered intravenously.,"There are post-treatment findings in the neck related to partial right glossectomy with mandibulectomy, flap reconstruction, and neck dissection. There is an infiltrative heterogeneous mass in the left masticator, parapharyngeal, and pharyngeal mucosal spaces, with associated left mandible, posterior maxillary sinus wall, and central skull base erosion and extension into the left middle cranial fossa. There is partial opacification of the bilateral maxillary sinuses and complete left tympanomastoid opacification. There is a cluster of prominent left level 6 lymph nodes. The thyroid gland appears unremarkable. The orbits are unremarkable.",,"1. Postoperative findings with evidence of recurrent tumor in the left masticator, parapharyngeal, and pharyngeal mucosal spaces, with associated left mandible, posterior maxillary sinus wall, and central skull base erosion and extension into the left middle cranial fossa and overlying skin of the face.2. Prominent left level 6 lymph nodes may represent metastatic disease, but are nonspecific.",RAD_6,"assistant
+
+The key findings in this case are:
+
+1. Recurrent tumor in the left masticator, parapharyngeal, and pharyngeal mucosal spaces.
+2. Erosion of the left mandible, posterior maxillary sinus wall, and central skull base.
+3. Extension of the tumor into the left middle cranial fossa.
+4. Overlying skin involvement of the face on the left side.
+5. Prominent left level 6 lymph nodes, which may indicate metastatic disease.
+
+These findings suggest an aggressive and locally advanced malignancy, likely of head and neck origin, with possible involvement of multiple compartments and structures, and potential for distant metastasis.","assistant
+
+The key findings in this case are:
+
+1. Evidence of recurrent tumor in the left masticator, parapharyngeal, and pharyngeal mucosal spaces.
+2. Erosion of the left mandible, posterior maxillary sinus wall, and central skull base.
+3. Extension of the tumor into the left middle cranial fossa.
+4. Overlying skin of the face involvement.
+5. Prominent left level 6 lymph nodes, which may represent metastatic disease.
+
+These findings suggest an aggressive, locally advanced malignancy with possible metastatic involvement, likely originating from a primary site such as the head and neck region, possibly a squamous cell carcinoma."
+8,Cough feverVIEWS: Chest AP and lateral,,Cardiothymic silhouette normal. Cardiac apex and stomach left-sided. Peribronchial wall thickening with left lower lobe opacity. No pleural effusion or pneumothorax.,,Left lower lobe pneumonia.,RAD_8,"assistant
+
+In a case of left lower lobe pneumonia, some key findings on imaging (usually chest radiographs or CT scans) would include:
+
+1.  **Lung Opacity:** The left lower lobe would show increased opacity due to consolidation of lung tissue, which is indicative of inflammation and infection.
+2.  **Air Bronchogram:** The air-filled bronchi within the consolidated area may be visible, creating a characteristic air bronchogram sign.
+3.  **Kerley B Lines:** These are short, horizontal lines at the lung periphery, indicating interstitial edema.
+4.  **Lung Volume Decrease:** The left lower lobe would appear smaller compared to the unaffected areas, indicating atelectasis (collapse) due to the consolidation.
+5.  **Air-Leak Sign:** In severe cases, an air-leak sign may be visible, indicating a pneumothorax.
+
+CT scans may also show additional findings such as:
+
+1.  **Ground-Glass Opacity:** Early signs of pneumonia may appear as ground-glass opacities.
+2.  **Consolidation:** The lung tissue appears solid due to inflammation and fluid accumulation.
+3.  **Lymphadenopathy:** Enlarged lymph nodes in the mediast","assistant
+
+In the case of left lower lobe pneumonia, the key findings on a chest radiograph (X-ray) would typically include:
+
+1. **Lung Opacity**: The left lower lobe of the lung would appear more opaque than the surrounding areas, indicating consolidation of the lung tissue due to inflammation and fluid accumulation.
+2. **Lobular Distribution**: The opacity would be confined to the left lower lobe, indicating a localized infection.
+3. **Air Bronchogram**: The air-filled bronchi within the affected lobe may be visible due to the surrounding consolidation, creating a ""reverse silhouette sign.""
+4. **Kerley B Lines**: These are short, horizontal lines at the lung periphery, indicating interstitial edema.
+5. **Lung Markings**: The normal lung markings may be obscured by the consolidation, making the affected lobe appear denser.
+
+On computed tomography (CT) scans, additional findings may include:
+
+1. **Ground-Glass Opacity**: A hazy, patchy appearance of the lung tissue, indicating early inflammation and edema.
+2. **Consolidation**: Areas of increased density due to the accumulation of pus, fluid, or cellular debris.
+3. **Air-Fluid Level**: An air-fluid level"
+13,"Female, 57 years old, with subarachnoid hemorrhage.",CT of the head without contrast.,"A large coil mass is redemonstrated in the region of the basilar tip which results in streak artifact obscuring some portion of the exam. A right frontal approach ventriculostomy catheter is in place. The catheter has been pulled back slightly and the tip now terminates in the right frontal horn.Subarachnoid and intraventricular hemorrhage is redemonstrated. The subarachnoid hemorrhage is less conspicuous than on the prior examination. The intraventricular hemorrhage may also be slightly reduced.Ventricular dilatation also seems to have improved. For example, the right frontal horn measures up to 11 mm in thickness, previously 15. The temporal horns are also notably reduced in caliber.Hypoattenuation in the periventricular tissues is redemonstrated similar to prior.",12/30/14,"1.Redemonstration of a large coil mass situated at the basilar tip.2.Interval retraction of the right frontal approach ventriculostomy catheter, the tip of which now sits in the right frontal horn.3.Slight interval decrease in the conspicuity of subarachnoid and intraventricular blood products. The caliber of the ventricular system has also improved.",RAD_13,"assistant
+
+Based on the provided context, the key findings in this case are:
+
+1. A large coil mass situated at the basilar tip, which is likely indicating a thrombus or clot formation at the basilar tip.
+2. Interval retraction of the right frontal approach ventriculostomy catheter, indicating successful placement of the catheter in the right frontal horn of the lateral ventricle.
+3. Slight interval decrease in the conspicuity of subarachnoid and intraventricular blood products, suggesting improvement in hemorrhage resolution.
+4. Improvement in the caliber of the ventricular system, indicating a reduction in ventricular dilation and possibly improved cerebrospinal fluid (CSF) circulation.
+
+These findings suggest that the patient may be recovering from a subarachnoid hemorrhage or intraventricular hemorrhage, with possible improvement in hydrocephalus and clot resolution following ventriculostomy catheter placement.","assistant
+
+The key findings in this case are:
+
+1. A large coil mass at the basilar tip, which suggests a possible aneurysm or coil embolization from a previous endovascular procedure.
+2. Interval retraction of the ventriculostomy catheter, indicating that the catheter has been successfully removed or repositioned.
+3. Slight interval decrease in the conspicuity of subarachnoid and intraventricular blood products, which suggests improvement in bleeding or hematoma resolution.
+4. Improved caliber of the ventricular system, indicating a reduction in ventricular dilatation or obstruction.
+
+These findings suggest that the patient has undergone a procedure (likely a ventriculostomy) and may have had an aneurysm treated with coil embolization. The reduction in blood products and improved ventricular caliber suggest that the procedure was successful in alleviating hydrocephalus or reducing intracranial pressure."
+17,"Male, 84 years old, status post subdural hemorrhage evacuation.",CT of the head without contrast.,"Since the prior examination, two burr holes have been placed within the right parietal bone. The more posterior burr hole conveys a drainage catheter which enters the right-sided subdural space. Substantial right-sided scalp swelling and pneumocephalus are compatible with recent instrumentation.The previously seen isoattenuating right frontoparietal subdural collection has been partially evacuated. Air now fills a portion of the space formerly occupied by fluid. The fluid is more hypoattenuating than it had been previously. There is hyperattenuating fluid compatible with more acute blood product along the catheter tract. The quantity of extra-axial blood product has decreased overall from the prior examination, now measuring up to 13 mm in thickness, previously up to 25 mm.Mass-effect on the right cerebral hemisphere has improved. There is near complete reexpansion of the right lateral ventricle and only a trace midline shift to the left persists.No loss of gray-white distinction is seen to suggest ischemic injury. No new parenchymal abnormalities are detected. The ventricles are normal in size and morphology.",12/31/14,"Expected findings status post evacuation of a right-sided subdural hematoma. The quantity of blood product is reduced, along with associated mass effect. There is some acute blood product along the drainage catheter tract for which continued follow-up is recommended.",RAD_17,"assistant
+
+Based on the provided context, the key findings in this case are:
+
+1. Reduction in quantity of blood product following evacuation of the right-sided subdural hematoma.
+2. Decrease in associated mass effect, indicating relief of pressure on surrounding brain tissue.
+3. Presence of some acute blood product along the drainage catheter tract.
+
+These findings suggest that the initial intervention (evacuation of the subdural hematoma) has been effective in reducing the hematoma volume and alleviating the mass effect, but there may be a need for continued monitoring to ensure that no further bleeding or complications occur.","assistant
+
+The key findings in this case are:
+
+1. Reduction in quantity of blood product: This indicates successful evacuation of the subdural hematoma, suggesting improvement in the patient's condition.
+2. Reduced associated mass effect: This is also a positive sign, indicating that the pressure exerted by the hematoma on the surrounding brain tissue has decreased, which may alleviate symptoms such as headache, confusion, and altered mental status.
+3. Presence of acute blood product along the drainage catheter tract: This suggests that some bleeding may still be ongoing, which necessitates continued follow-up to monitor for potential complications such as further hematoma expansion or infection.
+
+Overall, these findings indicate that the initial intervention was successful, but continued monitoring is necessary to ensure the patient's condition does not deteriorate further."
+23,,Multiplanar and multi-sequence MR images of the brain were obtained without contrast.,"There is high signal in the right corona radiata on the diffusion sequence, without corresponding low signal on ADC map. The ventricles and sulci are prominent, consistent with moderate age-related volume loss. The basal cisterns remain patent. There is no midline shift or mass effect. There are scattered punctate foci and confluent areas of abnormal T2/FLAIR hyperintensity within the periventricular and subcortical white matter, consistent with moderate chronic small vessel ischemic changes. High T2/FLAIR signal of the bilateral caudate and putamina, may also be related to small vessel ischemic changes. No extra-axial fluid collection is identified.There are scattered punctate foci of susceptibility artifact, representing hemosiderin staining. Normal flow-voids are demonstrated in the major intracranial vascular structures. The midline structures and craniocervical junction are within normal limits.",CT head dated 12/31/2014.,"1. Extensive chronic small vessel ischemic changes with superimposed lesion in the right corona radiata, which may represent a late subacute, resolving infarct. 2. Moderate age related parenchymal volume loss.",RAD_23,"assistant
+
+The key findings in this case are:
+
+1. Extensive chronic small vessel ischemic changes: This suggests long-standing vascular disease affecting the small vessels in the brain, leading to chronic ischemia and potential tissue damage.
+2. Superimposed lesion in the right corona radiata: The corona radiata is a white matter region in the brain involved in the transmission of signals between different brain areas. A lesion in this area may represent a recent or subacute infarct (stroke) that has not yet fully resolved.
+3. Moderate age-related parenchymal volume loss: This indicates age-related atrophy of brain tissue, which is a normal consequence of aging.
+
+Overall, the combination of chronic ischemic changes, a recent infarct, and age-related atrophy suggests that the patient has experienced a stroke, possibly due to small vessel disease, and is also experiencing the effects of aging on the brain.","assistant
+
+Based on the given context, the key findings in this case are:
+
+1. **Extensive chronic small vessel ischemic changes**: This suggests that there is widespread damage to the small blood vessels in the brain, likely due to chronic ischemia (reduced blood flow) leading to tissue damage over time.
+2. **Superimposed lesion in the right corona radiata**: The corona radiata is a region of white matter in the brain that is involved in transmitting signals between different brain regions. A lesion in this area may indicate a focal area of damage, possibly due to a stroke or infarct (death of brain tissue due to lack of blood supply).
+3. **Late subacute, resolving infarct**: This indicates that the infarct is in a stage of healing, likely several weeks to months after the initial event.
+4. **Moderate age-related parenchymal volume loss**: This suggests that the brain tissue has shrunk due to aging, which is a common finding in older adults.
+
+Overall, the findings suggest that the patient has experienced chronic ischemic changes and a recent stroke or infarct in the right corona radiata, which is now in the process of healing."
+24,History of intussusception from outside hospitalVIEW: Chest AP and abdomen AP,,Cardiothymic silhouette normal. Cardiac apex and stomach left-sided. Patchy atelectasis left lower lobe. No pleural effusion or pneumothorax. Multiple dilated loops of bowel without pneumatosis or pneumoperitoneum.,,Distal bowel obstruction without pneumoperitoneum.,RAD_24,"assistant
+
+In a case of distal bowel obstruction without pneumoperitoneum, the key findings on imaging would typically include:
+
+1. **Dilated bowel loops**: The bowel loops proximal to the obstruction would appear dilated, with a ""target sign"" or ""double bubble"" appearance on upright abdominal radiographs due to gas accumulation in the small bowel.
+2. **Transition zone**: A transition zone would be visible on imaging, marking the point where the dilated bowel loops taper down to normal caliber bowel distal to the obstruction.
+3. **Normal or decreased gas in the colon**: Since the obstruction is distal, there may be normal or decreased gas in the colon, depending on the level and severity of the obstruction.
+4. **No free air**: In the absence of pneumoperitoneum, there would be no free air visible under the diaphragm or within the abdominal cavity.
+5. **Possible signs of bowel ischemia**: In cases of prolonged obstruction, signs of bowel ischemia such as bowel wall thickening, mucosal edema, or pneumatosis intestinalis may be visible on imaging studies.
+
+These findings would support the diagnosis of a distal bowel obstruction without pneumoperitoneum, which may be due to various causes such as volvulus,","assistant
+
+In a case of distal bowel obstruction without pneumoperitoneum, key findings on imaging studies, particularly on abdominal X-rays, CT scans, or MRI, may include:
+
+1. **Dilated bowel loops**: The colon and rectum will appear dilated due to the obstruction, with a transition zone between the dilated and non-dilated segments.
+2. **Air-fluid levels**: On upright abdominal X-rays, air-fluid levels may be visible in the dilated bowel loops, indicating the presence of both air and fluid within the bowel.
+3. **Loss of haustral markings**: The haustral folds of the colon may become blurred or lost due to the edema and dilatation of the bowel wall.
+4. **Obstruction pattern**: The type of obstruction (e.g., colonic volvulus, sigmoid volvulus, or intussusception) may be suggested by the location and appearance of the obstruction.
+5. **Peritoneal signs**: Absence of free air under the diaphragm (pneumoperitoneum) suggests that the obstruction is likely not due to a perforation of the bowel.
+6. **Other signs**: Other signs may include a palpable abdominal mass, abdominal pain, and abdominal tenderness.
+
+It"
+27,Gunshot woundVIEWS: Right humerus AP and lateral,,Multiple metallic bullet fragments are present overlying the distal diaphysis of the right humerus. There is an overlying splint which obscures fine bony detail. There is apparent bony irregularity at the distal diaphysis of the right humerus. No evidence of dislocation.,,Apparent bony irregularity at the distal diaphysis of the right humerus and may be secondary to artifact from the overlying splint or representing true fracture. Repeat radiograph without the overlying splint could be performed if clinically warranted.,RAD_27,"assistant
+
+The key findings in this case are an apparent bony irregularity at the distal diaphysis of the right humerus, which could be due to either an artifact from the overlying splint or a true fracture.","assistant
+
+The key findings in this case are:
+
+1. Apparent bony irregularity: This suggests there may be an abnormality in the bone structure.
+2. Location: The irregularity is located at the distal diaphysis of the right humerus.
+3. Possible causes: The irregularity could be due to an artifact from the overlying splint or a true fracture.
+4. Recommendation: A repeat radiograph without the overlying splint could be performed to clarify the diagnosis if clinically warranted.
+
+These findings indicate the need for further investigation to determine the nature of the bony irregularity and rule out a potential fracture."
+28,Male 46 years old; Reason: evaluate for necrotizing fascitis of scrotum History: scrotal swelling,"Multiple transaxial CT images of chest, abdomen and pelvis acquired. In additional, multiple coronal and sagittal images reconstructed from transaxial data. Amount of IV contrast administered on this exam: None. Evaluation of organs of abdomen and pelvis suboptimal without IV contrast.","CHEST:LUNGS AND PLEURA: Multifocal air space disease seen throughout both lungs, more pronounced on left side. Small left pleural effusion. MEDIASTINUM AND HILA: Multiple mildly prominent mediastinal lymph nodes, measuring up to 10 mm. Subcentimeter axillary lymph nodes. Trace pericardial effusion. CHEST WALL: Right-sided central venous catheter seen with tip in right atrium. ABDOMEN:LIVER, BILIARY TRACT: Cholelithiasis. No secondary signs of acute cholecystitis. SPLEEN: 2-cm presumed splenule inferior to spleen, image 124 series 4.PANCREAS: No significant abnormality noted.ADRENAL GLANDS: No significant abnormality noted.KIDNEYS, URETERS: No significant abnormality noted.RETROPERITONEUM, LYMPH NODES: Minimal atherosclerotic aortic calcification. Subcentimeter retroperitoneal and iliac lymph nodes.BOWEL, MESENTERY: Tiny hiatal hernia. Small presacral edema. Segmental distal transverse colon wall thickening, measuring approximately 8.5 cm in length, image 120 series 4. Mild upstream transverse colon dilatation visualized. Findings discussed with Dr. Corelli at 8:50 a.m. on 1/1/15. Small paracolic gutter edema. Underdistention of hepatic flexure ascending colon makes assessment for wall thickening suboptimal. Appendix borderline in size, no significant periappendiceal inflammation seen at this time.PELVIS:PROSTATE, SEMINAL VESICLES: No significant abnormality noted.BLADDER: No significant abnormality noted.BONES, SOFT TISSUES: Mild scrotal thickening/edema, no associated gaseous foci seen. Mild bilateral proximal lower extremity subcutaneous edema. Mild ventral abdominal subcutaneous nodularity, may reflect sequela from prior injections. Scattered subcentimeter sclerotic foci, most likely bone islands. Mild degenerative disease of spine.","December 24, 2014 CT study","1. Segmental thickening of distal transverse colon with mild upstream dilatation visualized, appearance suspicious for acute colitis, correlation with patient's clinical history/physical exam and followup to resolution to exclude underlying neoplastic process recommended (although this is considered less likely due to length of involvement). 2. Multifocal pneumonia/infectious process as above with small left pleural effusion. 3. Mild scrotal thickening/edema, correlate clinically for underlying cellulitis.",RAD_28,"assistant
+
+The key findings in this case are:
+
+1. Segmental thickening of the distal transverse colon with mild upstream dilatation, suggestive of acute colitis.
+2. Multifocal pneumonia/infectious process.
+3. Small left pleural effusion.
+4. Mild scrotal thickening/edema.
+
+These findings are indicative of a possible infectious process affecting multiple systems, including the gastrointestinal and respiratory tracts, as well as potentially the genitourinary tract.","assistant
+
+The key findings in this case are:
+
+1. Segmental thickening of the distal transverse colon with mild upstream dilatation, suggestive of acute colitis.
+2. Multifocal pneumonia or an infectious process.
+3. Small left pleural effusion.
+4. Mild scrotal thickening/edema, likely due to cellulitis.
+
+These findings suggest the presence of an infectious process affecting the gastrointestinal tract (colitis) and the lungs (pneumonia), as well as localized inflammation of the scrotum (cellulitis)."
+29,RDS on HFOVVIEW: Chest AP 1/1/15,,ET tube tip at the level of the thoracic inlet. NG tube tip in the stomach. Right upper extremity PICC with tip at the confluence of the brachiocephalic veins. Cardiothymic silhouette normal. Diffuse atelectasis bilaterally not significantly changed. No pleural effusion or pneumothorax.,12/31/14,Diffuse atelectasis bilaterally not significantly changed.,RAD_29,"assistant
+
+In the case of diffuse atelectasis bilaterally not significantly changed, the key findings would be:
+
+1.  Bilateral atelectasis: This refers to the collapse of lung tissue on both sides of the chest. Atelectasis can be caused by a variety of factors, including mucus plugging, bronchial obstruction, and pressure on the lung tissue.
+
+2.  Lack of significant change: The fact that the atelectasis has not significantly changed suggests that the underlying cause has not resolved or has not worsened. This could indicate that the patient's condition is stable, but also that further intervention may be necessary to address the underlying cause of the atelectasis.
+
+As a radiologist, further investigation would be needed to determine the underlying cause of the atelectasis and to assess for any complications or associated findings. This may involve reviewing imaging studies, such as chest X-rays or CT scans, and consulting with the patient's clinical team to gather more information.","assistant
+
+The key findings in this case are diffuse atelectasis bilaterally, which is not significantly changed. 
+
+Diffuse atelectasis refers to the collapse of lung tissue across both lungs. This can be caused by various factors such as airway obstruction, infection, or increased intrathoracic pressure. 
+
+Given that the atelectasis is described as not significantly changed, it suggests that the condition is stable and possibly chronic."

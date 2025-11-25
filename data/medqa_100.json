@@ -1,0 +1,1302 @@
+{
+  "2554": {
+    "question": "Background and Methods:\nAldosterone is important in the pathophysiology of heart failure. In a double-blind study, we enrolled 1,663 patients who had NYHA class III or IV heart failure, a left ventricular ejection fraction of no more than 35%, and who were being treated with an angiotensin-converting-enzyme inhibitor, a loop diuretic, and in most cases digoxin. A total of 822 patients were randomly assigned to receive 25 mg of spironolactone daily and 841 to receive placebo. The primary endpoint was death from all causes.\nResults:\nThe trial was discontinued early, after a mean follow-up period of 24 months, because an interim analysis determined that spironolactone was efficacious. There were 386 deaths in the placebo group (46%) and 284 in the spironolactone group (35%; relative risk of death, 0.70; 95% confidence interval, 0.60 to 0.82; P<0.001). This 30% reduction in the risk of death among patients in the spironolactone group was attributed to a lower risk of both death from progressive heart failure and sudden death from cardiac causes. The frequency of hospitalization for worsening heart failure was 35% lower in the spironolactone group than in the placebo group (relative risk of hospitalization, 0.65; 95% confidence interval, 0.54 to 0.77; P<0.001). In addition, patients who received spironolactone had a significant improvement in the symptoms of heart failure, as assessed on the basis of the New York Heart Association functional class (P<0.001). Gynecomastia or breast pain was reported in 10% of men who were treated with spironolactone, as compared with 1 percent of men in the placebo group (P<0.001). The incidence of serious hyperkalemia was minimal in both groups of patients.\nTo which of the following patients are the results of this clinical trial applicable?",
+    "answer": "A 56-year-old male with NYHA class III heart failure with an LVEF of 32%, current taking lisinopril, furosemide, and digoxin",
+    "options": {
+      "A": "An 82-year-old female with NYHA class II heart failure with an LVEF of 22%, taking lisinopril, furosemide, and digoxin",
+      "B": "A 65-year-old male with newly diagnosed NYHA class IV heart failure and a LVEF of 21%, about to begin medical therapy",
+      "C": "A 56-year-old male with NYHA class III heart failure with an LVEF of 32%, current taking lisinopril, furosemide, and digoxin",
+      "D": "An 86-year-old female recently found to have an LVEF of 34%, currently taking furosemide and carvedilol",
+      "E": "A 78-year-old male with NYHA class II heart failure and LVEF 36%"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "346": {
+    "question": "A 7-year-old African-American boy presents to his physician with fatigue, bone and abdominal pain, and mild jaundice. The pain is dull and remitting, and the patient complains it sometimes migrates from one extremity to another. His mother reports that his jaundice and pain have occurred periodically for the past 5 years. At the time of presentation, his vital signs are as follows: the blood pressure is 80/50 mm Hg, the heart rate is 87/min, the respiratory rate is 17/min, and the temperature is 36.5°C (97.7°F). On physical examination, the patient appears to be pale with mildly icteric sclera and mucous membranes. On auscultation, there is a soft systolic ejection murmur, and palpation reveals hepatosplenomegaly. His musculoskeletal examination shows no abnormalities. Laboratory investigations show the following results:\nComplete blood count\nErythrocytes\n3.7 x 106/mm3\nHgb\n11 g/dL\nTotal leukocyte count\nNeutrophils\nLymphocytes\nEosinophils\nMonocytes\nBasophils\n7,300/mm3\n51%\n40%\n2%\n7%\n0\nPlatelet count\n151,000/mm3\nChemistry\nTotal bilirubin\n3.1 mg/dL (53 µmol/L)\nDirect bilirubin\n0.5 mg/dL (8.55 µmol/L)\nA peripheral blood smear shows numerous sickle-shaped red blood cells. Among other questions, the patient’s mother asks you how his condition would influence his vaccination schedule. Which of the following statements is true regarding vaccination in this patient?",
+    "answer": "The patient should receive serogroup B meningococcal vaccination at the age of 10 years.",
+    "options": {
+      "A": "The patient should not receive meningococcal, pneumococcal, or Haemophilus influenzae vaccines, because they are likely to cause complications or elicit disease in his case.",
+      "B": "The patient should receive serogroup B meningococcal vaccination at the age of 10 years.",
+      "C": "The patient should receive serogroup D meningococcal vaccination as soon as possible, because he is at higher risk of getting serogroup B meningococcal infection than other children.",
+      "D": "The patient should receive the pneumococcal polysaccharide vaccine as soon as possible, because he is at higher risk of getting pneumococcal infection than other children.",
+      "E": "The patient’s condition does not affect his chances to get any infection; thus, additional vaccinations are not advised."
+    },
+    "meta_info": "step1",
+    "answer_idx": "B"
+  },
+  "2040": {
+    "question": "Background and Methods:\nAldosterone is important in the pathophysiology of heart failure. In a double-blind study, we enrolled 1,663 patients who had severe heart failure, a left ventricular ejection fraction of no more than 35 percent, and were being treated with an angiotensin-converting-enzyme inhibitor, a loop diuretic, and in most cases digoxin. A total of 822 patients were randomly assigned to receive 25 mg of spironolactone daily and 841 to receive placebo. The primary endpoint was death from all causes.\nResults:\nThe trial was discontinued early, after a mean follow-up period of 24 months, because an interim analysis determined that spironolactone was efficacious. There were 386 deaths in the placebo group (46%) and 284 in the spironolactone group (35%; relative risk of death, 0.70; 95% confidence interval, 0.60 to 0.82; p<0.001). This 30 percent reduction in the risk of death among patients in the spironolactone group was attributed to a lower risk of both death from progressive heart failure and sudden death from cardiac causes. The frequency of hospitalization for worsening heart failure was 35% lower in the spironolactone group than in the placebo group (relative risk of hospitalization, 0.65; 95% confidence interval, 0.54 to 0.77; p<0.001). In addition, patients who received spironolactone had a significant improvement in the symptoms of heart failure, as assessed on the basis of the New York Heart Association functional class (p<0.001). Gynecomastia was reported in 10% of men who were treated with spironolactone, as compared with 1% of men in the placebo group (p<0.001). The incidence of serious hyperkalemia was minimal in both groups of patients.\nWhich of the following statements represents the most accurate interpretation of the results from the aforementioned clinical trial?",
+    "answer": "Spironolactone, in addition to standard therapy, substantially reduces the risk of morbidity and death in patients with severe heart failure",
+    "options": {
+      "A": "Spironolactone, in addition to standard therapy, substantially reduces the risk of morbidity and death in patients with severe heart failure",
+      "B": "The addition of spironolactone significant improved symptoms of heart failure, but not overall mortality",
+      "C": "Spironolactone did not improve all-cause morbidity and mortality in patients with severe heart failure",
+      "D": "The incidence of both gynecomastia and hyperkalemia was elevated in patients treated with spironolactone",
+      "E": "Given the large sample size of this clinical trial, the results are likelily generalizable to all patient with heart failure"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "6388": {
+    "question": "A 56-year-old woman visits her primary care provider complaining of fatigue, weight gain, increased thirst, hair loss, and headaches. She has been perimenopausal for 3 years. She was diagnosed with rheumatoid arthritis 4 years ago and prescribed oral prednisolone. Currently, she takes prednisolone and omeprazole daily. Her vital signs are as follows: blood pressure 150/90 mm Hg, heart rate 70/min, respiratory rate 13/min, and temperature 36.6°C (97.9°F). Her weight is 95 kg (209.4 lb), height is 165 cm (5 ft 4 in), BMI is 34.9 kg/m2, waist circumference is 109 cm (42.9 in), and hip circumference is 93 cm (36.6 in). At physical exam, the patient has abdominal obesity, round red face, and increased fat deposition on the back and around the neck. Her skin elasticity is diminished. Cardiac auscultation reveals fixed splitting of S2 with an increased aortic component. The rest of the exam is unremarkable. Blood analysis shows the following findings:\nTotal serum cholesterol 204.9 mg/dL\nHDL 50.3 mg/dL\nLDL 131.4 mg/dL\nTriglycerides 235.9 mg/dL\nFasting serum glucose 192.0 mg/dL\nWhich of the following options describes the pathogenesis of the patient’s hyperglycemia?",
+    "answer": "Upon activation of intracellular corticosteroid receptors in hepatocytes, its DNA-binding domain binds to glucocorticoid response elements and triggers transcription of gluconeogenic enzymes.",
+    "options": {
+      "A": "Glucocorticoids activate surface membrane sodium channels in the islet beta-cells, which leads to Na+ influx and inhibition of insulin synthesis.",
+      "B": "Binding of glucocorticoids to surface G-protein-coupled corticosteroid receptors leads to activation of the inositol-3-phosphate pathway and consequent transcription of gluconeogenic enzymes.",
+      "C": "Upon activation of intracellular corticosteroid receptors in hepatocytes, its DNA-binding domain binds to glucocorticoid response elements and triggers transcription of gluconeogenic enzymes.",
+      "D": "Glucocorticoids bind to surface receptors of the glomerular endothelial cells and inhibit filtration of glucose.",
+      "E": "Extensive gluconeogenic enzyme transcription is activated by glucocorticoids via the cAMP pathway."
+    },
+    "meta_info": "step1",
+    "answer_idx": "C"
+  },
+  "4918": {
+    "question": "A 16-year-old girl is brought to the emergency room with hyperextension of the cervical spine caused by a trampoline injury. After ruling out the possibility of hemorrhagic shock, she is diagnosed with quadriplegia with neurogenic shock. The physical examination is most likely to reveal which of the following constellation of findings?",
+    "answer": "Pulse: 56/min; blood pressure: 88/40 mm Hg; respirations: 22/min; loss of rectal tone on DRE; reduced muscle power and absence of sensations in the limbs",
+    "options": {
+      "A": "Pulse: 110/min; blood pressure: 88/50 mm Hg; respirations: 26/min; normal rectal tone on digital rectal examination (DRE); normal muscle power and sensations in the limbs",
+      "B": "Pulse: 99/min; blood pressure: 188/90 mm Hg; respirations: 33/min; loss of rectal tone on DRE; reduced muscle power and absence of sensations in the limbs",
+      "C": "Pulse: 56/min; blood pressure: 88/40 mm Hg; respirations: 22/min; loss of rectal tone on DRE; reduced muscle power and absence of sensations in the limbs",
+      "D": "Pulse: 54/min; blood pressure: 88/44 mm Hg; respirations: 26/min; increased rectal tone on DRE; normal muscle power and sensations in the limbs",
+      "E": "Pulse: 116/min; blood pressure: 80/40 mm Hg; respirations: 16/min; loss of rectal tone on DRE; reduced muscle power and absence of sensations in the limbs"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "9037": {
+    "question": "A 24-year-old man is brought to the emergency department after he is found sluggish, drowsy, feverish, and complaining about a headache. His past medical history is unremarkable. His vital signs include: blood pressure 120/60 mm Hg, heart rate 70/min, respiratory rate 17/min, and body temperature 39.0°C (102.2°F). On physical examination, the patient is dysphasic and incapable of following commands. Gait ataxia is present. No meningeal signs or photophobia are present. A noncontrast CT of the head is unremarkable. A T2 MRI is performed and is shown in the image. A lumbar puncture (LP) is subsequently performed. Which of the following CSF findings would you most likely expect to find in this patient?",
+    "answer": "Opening pressure: 15 cm H2O, color: clear, protein: 50 mg/dL, cell count: 40 cells/µL, mostly lymphocytes, ratio CSF:blood glucose: 0.65",
+    "options": {
+      "A": "Opening pressure: 18 cm H2O, color: clear, protein: 40 mg/dL, cell count: 2 cells/µL, mostly polymorphonuclear (PMNs), ratio CSF:blood glucose: 0.7",
+      "B": "Opening pressure: 28 cm H2O, color: cloudy, protein: 68 mg/dL, cell count: 150 cells/µL, mostly PMNs, ratio CSF:blood glucose: 0.3",
+      "C": "Opening pressure: 40 cm H2O, color: cloudy, protein: 80 mg/dL, cell count: 135 cells/µL, mostly lymphocytes with some PMNs, ratio CSF:blood glucose: 0.2",
+      "D": "Opening pressure: 15 cm H2O, color: clear, protein: 50 mg/dL, cell count: 40 cells/µL, mostly lymphocytes, ratio CSF:blood glucose: 0.65",
+      "E": "Opening pressure: 38 cm H2O, color: cloudy, protein: 75 mg/dL, cell count: 80 cells/µL, mostly lymphocytes, ratio CSF:blood glucose: 0.25"
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  },
+  "392": {
+    "question": "A 68-year-old woman presents to her primary care physician for a regular check-up. She complains of swelling of her legs and face, which is worse in the morning and decreases during the day. She was diagnosed with type 2 diabetes mellitus a year ago and prescribed metformin, but she has not been compliant with it preferring ‘natural remedies’ over the medications. She does not have a history of cardiovascular disease or malignancy. Her vital signs are as follows: blood pressure measured on the right hand is 130/85 mm Hg, on the left hand, is 110/80 mm Hg, heart rate is 79/min, respiratory rate is 16/min, and the temperature is 36.6℃ (97.9°F). Physical examination reveals S1 accentuation best heard in the second intercostal space at the right sternal border. Facial and lower limbs edema are evident. The results of the laboratory tests are shown in the table below.\nFasting plasma glucose  164 mg/dL\nHbA1c 10.4%\nTotal cholesterol 243.2 mg/dL\nTriglycerides 194.7 mg/dL\nCreatinine 1.8 mg/dL\nUrea nitrogen 22.4 mg/dL\nCa2+ 9.6 mg/dL\nPO42- 38.4 mg/dL\nWhich of the following statements best describes this patient’s condition?",
+    "answer": "If measured in this patient, there would be an increased PTH level.",
+    "options": {
+      "A": "If measured in this patient, there would be an increased PTH level.",
+      "B": "The calcitriol level is unlikely to be affected in this patient.",
+      "C": "Hypoparathyroidism is most likely the cause of the patient’s altered laboratory results.",
+      "D": "Increase in 1α, 25(OH)2D3 production is likely to contribute to alteration of the patient’s laboratory values.",
+      "E": "There is an error in Ca2+ measurement because the level of serum calcium is always decreased in the patient’s condition."
+    },
+    "meta_info": "step1",
+    "answer_idx": "A"
+  },
+  "7638": {
+    "question": "A 30-year-old woman, gravida 2 para 1, at 39 weeks gestation presents to the hospital with painful contractions and a rupture of membranes. She reports that the contractions started a couple hours ago and are now occurring every 4 minutes. She is accompanied by her husband who states, “her water broke an hour ago before we left for the hospital.\" The patient denies vaginal bleeding, and fetal movements are normal. The patient has attended all her pre-natal visits without pregnancy complications. She has no chronic medical conditions and takes only pre-natal vitamins. Her blood pressure is 110/75 mm Hg and pulse is 82/min. A fetal heart rate tracing shows a pulse of 140/min with moderate variability and no decelerations. Cervical examination reveals a cervix that is 7 cm dilated and 100% effaced with the fetal head at -1 station. The patient forgoes epidural anesthesia. During which of the following scenarios should a cesarean delivery be considered for this patient?",
+    "answer": "Cervix is 7 cm dilated and fetal head is at 0 station after 4 hours, with contractions every 2 minutes",
+    "options": {
+      "A": "Cervix is 7 cm dilated and fetal head is at 0 station after 1 hour, with contractions every 5 minutes",
+      "B": "Cervix is 7 cm dilated and fetal head is at -1 station after 2 hours with contractions every 7 minutes",
+      "C": "Cervix is 7 cm dilated and fetal head is at 0 station after 4 hours, with contractions every 2 minutes",
+      "D": "Cervix is 9 cm dilated and fetal head is at -1 station after 3 hours, with contractions every 3 minutes",
+      "E": "Cervix is 10 cm dilated and fetal head is at +1 station after 2 hours, with contractions every 2 minutes"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "8947": {
+    "question": "A 33-year-old man has a history of intermittent bloody diarrhea, tenesmus, fever, fatigue, and lower abdominal cramps for the past 2 weeks. On physical examination, he is lethargic and appears lean and pale. He has aphthous stomatitis, red congested conjunctiva, and tender swollen joints. At the doctor’s office, his pulse is 114/min, blood pressure is 102/76 mm Hg, respirations are 20/min, and his temperature is 39.4°C (102.9°F). There is vague lower abdominal tenderness and frank blood on rectal examination. Laboratory studies show:\nHemoglobin 7.6 g/dL\nHematocrit 33%\nTotal leucocyte count 22,000/mm3\nStool assay for C.difficile is negative\nAbdominal X-ray shows no significant abnormality\nHe is symptomatically managed and referred to a gastroenterologist, who suggests a colonoscopy and contrast (barium) study for the diagnosis. Which of the following is the most likely combination of findings in his colonoscopy and barium study?",
+    "answer": "Colonoscopy: Continuous ulcerated lesions involving the mucosa and submucosa granular mucosa, crypt abscess, and pseudopolyps, Barium study: Lead pipe colon appearance",
+    "options": {
+      "A": "Colonoscopy: Multiple vascular malformations that resemble telangiectasias on the colon wall, Barium study: Normal",
+      "B": "Colonoscopy: Continuous ulcerated lesions involving the mucosa and submucosa granular mucosa, crypt abscess, and pseudopolyps, Barium study: Lead pipe colon appearance",
+      "C": "Colonoscopy: Patches of mucosal erosions with pseudomembrane formation, Barium study: Lead pipe colon appearance",
+      "D": "Colonoscopy: Discontinuous transmural ‘skip lesions’ with aphthoid linear ulcers and transverse fissures, non-caseating granulomas, and strictures, Barium study: Cobblestone appearance with strictures",
+      "E": "Colonoscopy: Patches of mucosal erosions with pseudomembrane formation, Barium study: Cobblestone appearance with strictures"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "1384": {
+    "question": "A 19-year-old woman presents to her gynecologist for evaluation of amenorrhea and occasional dull right-sided lower abdominal pain that radiates to the rectum. She had menarche at 11 years of age and had regular 28-day cycles by 13 years of age. She developed menstrual cycle irregularity approximately 2 years ago and has not had a menses for 6 months. She is not sexually active. She does not take any medications. Her weight is 94 kg (207.2 lb) and her height is 166 cm (5.4 ft). Her vital signs are within normal limits. The physical examination shows a normal hair growth pattern. No hair loss or acne are noted. There is black discoloration of the skin in the axillae and posterior neck. Palpation of the abdomen reveals slight tenderness in the right lower quadrant, but no masses are appreciated. The gynecologic examination reveals no abnormalities. The hymen is intact. The rectal examination reveals a non-tender, mobile, right-sided adnexal mass. Which of the following management plans would be best for this patient?",
+    "answer": "A transvaginal ultrasound would provide a better resolution of the suspected pathology, but a transabdominal ultrasound can still be used to assess this patient",
+    "options": {
+      "A": "No imaging is indicated for this patient because the diagnosis can be made on the basis of the clinical examination",
+      "B": "A transvaginal ultrasound would provide a better resolution of the suspected pathology, but a transabdominal ultrasound can still be used to assess this patient",
+      "C": "Increased anterior abdominal wall adiposity does not pose any problems with a full urinary bladder, so a transabdominal ultrasound will provide the same sensitivity as a transvaginal ultrasound",
+      "D": "Transabdominal ultrasound would be better for this patient because it can detect small pelvic masses better than a transvaginal ultrasound",
+      "E": "Pelvic MRI is warranted in this case because transvaginal ultrasound cannot be performed and transabdominal ultrasound is unlikely to provide any diagnostic information"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "5510": {
+    "question": "A 31-year-old woman presents to the emergency department with a history of fever and vomiting for 2 days and severe headache for a day. Past medical history is significant for migraine diagnosed 10 years ago, but she reports that her current headache is different. She describes the pain as generalized, dull, continuous, severe in intensity, and exacerbated by head movements. Physical examination reveals a blood pressure of 110/76 mm Hg and a temperature of 39.1°C (102.4°F). The patient is awake but in great distress due to pain. A pink-purple petechial rash covers her chest and legs. Extraocular movements are normal. She complains of neck pain and asks you to turn off the lights. Muscle strength is normal in all 4 limbs. Fundoscopic examination is normal. Baseline laboratory investigations are shown:\nLaboratory test\nSodium 145 mEq/L\nPotassium 3.2 mEq/L\nGlucose 87 mg/dL\nCreatinine 1.0 mg/dL\nWhite blood cell count 18,900/mm3\nHemoglobin 13.4 g/dL\nPlatelets 165,000/mm3\nINR 1.1\nAerobic and anaerobic blood cultures are taken and empiric antibiotics are started. A lumbar puncture is performed. Which of the following cerebrospinal fluid (CSF) findings are expected in this patient?",
+    "answer": "CSF: WBC 8,500 cells/mm3, neutrophil predominant, protein 112 mg/dL, glucose 15 mg/dL",
+    "options": {
+      "A": "CSF: WBC 4 cells/mm3, protein 35 mg/dL, glucose 66 mg/dL",
+      "B": "CSF: WBC 8,500 cells/mm3, neutrophil predominant, protein 112 mg/dL, glucose 15 mg/dL",
+      "C": "CSF: WBC 145 cells/mm3, lymphocytic predominant, protein 42 mg/dL, glucose 60 mg/dL",
+      "D": "CSF: WBC 640 cells/mm3, lymphocytic predominant, protein 180 mg/dL, glucose 24 mg/dL",
+      "E": "CSF: WBC 2 cells/mm3, protein 142 mg/dL, glucose 70 mg/dL"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "2046": {
+    "question": "A previously healthy 1-year-old boy is brought to the emergency department because of irritability and fever for 2 days. His symptoms began shortly after returning from a family trip to Canada. He was born at term. His immunizations are up-to-date. His 6-year-old brother is healthy and there is no family history of serious illness. The boy appears weak and lethargic. He is at the 50th percentile for height and 75th percentile for weight. His temperature is 39.2°C (102.5°F), pulse is 110/min, respirations are 28/min, and blood pressure is 92/55 mm Hg. Physical examination shows several purple spots over the trunk and extremities that are 1 mm in diameter. Capillary refill time is 4 seconds. The remainder of the examination shows no abnormalities. His hemoglobin concentration is 12 g/dL, leukocyte count is 19,000/mm3, and platelet count is 225,000/mm3. A lumbar puncture is done; cerebrospinal fluid (CSF) analysis shows abundant segmented neutrophils, decreased glucose concentration, and an increased protein concentration. Which of the following is the most appropriate next step in management?",
+    "answer": "Ceftriaxone and vancomycin therapy for the patient and rifampin prophylaxis for close contacts",
+    "options": {
+      "A": "Ampicillin therapy for the patient and ciprofloxacin prophylaxis for close contacts",
+      "B": "Cefotaxime and vancomycin therapy for the patient and doxycycline prophylaxis for close contacts",
+      "C": "Vancomycin therapy for the patient and rifampin prophylaxis for close contacts",
+      "D": "Ceftriaxone and vancomycin therapy for the patient and rifampin prophylaxis for close contacts",
+      "E": "Cefotaxime and vancomycin therapy for the patient and no prophylaxis for close contacts\n\""
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "D"
+  },
+  "8905": {
+    "question": "Background: Aldosterone blockade reduces mortality and morbidity among patients with severe heart failure. We conducted a double-blind, placebo-controlled study evaluating the effect of eplerenone, a selective aldosterone blocker, on morbidity and mortality among patients with acute myocardial infarction complicated by left ventricular dysfunction and heart failure.\nMethods: Patients were randomly assigned to eplerenone (25 mg per day initially, titrated to a maximum of 50 mg per day; 3,319 patients) or placebo (3,313 patients) in addition to optimal medical therapy. The study continued until 1,012 deaths occurred. The primary endpoints were death from any cause, death from cardiovascular causes, hospitalization for heart failure, acute myocardial infarction, stroke, or ventricular arrhythmia.\nResults: During a mean follow-up of 16 months, there were 478 deaths in the eplerenone group and 554 deaths in the placebo group (relative risk, 0.85; 95 percent confidence interval, 0.75 to 0.96; p = 0.008). Of these deaths, 407 in the eplerenone group and 483 in the placebo group were attributed to cardiovascular causes (relative risk, 0.83; 95 percent confidence interval, 0.72 to 0.94; p = 0.005). The rate of the other primary endpoint, death from cardiovascular causes, or hospitalization for cardiovascular events was reduced by eplerenone (relative risk, 0.87; 95 percent confidence interval, 0.79 to 0.95; p = 0.002), as was the secondary endpoint of death from any cause or any hospitalization (relative risk, 0.92; 95 percent confidence interval, 0.86 to 0.98; p = 0.02). There was also a reduction in the rate of sudden death from cardiac causes (relative risk, 0.79; 95 percent confidence interval, 0.64 to 0.97; p = 0.03). The rate of serious hyperkalemia was 5.5 percent in the eplerenone group and 3.9 percent in the placebo group (p = 0.002), whereas the rate of hypokalemia was 8.4 percent in the eplerenone group and 13.1 percent in the placebo group (p < 0.001).\nWhich of the following statements represents the most accurate interpretation of the results from the aforementioned clinical trial?",
+    "answer": "Eplerenone, when added to optimal medical therapy, decreases all cause mortality in patients with left ventricular dysfunction following myocardial infarction.",
+    "options": {
+      "A": "There was no significant difference in the incidence of hyperkalemia between trial arms.",
+      "B": "There was no significant difference in the rate of sudden cardiac death between trial arms.",
+      "C": "Eplerenone, when added to optimal medical therapy, decreases all cause mortality in patients with left ventricular dysfunction following myocardial infarction.",
+      "D": "The rate of hypokalemia was not significantly different between trial arms.",
+      "E": "The most common causes of death seen in enrolled patients over the course of this trial were non-cardiac in nature."
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "3758": {
+    "question": "A 54-year-old man presents to the emergency department with a severe diffuse abdominal pain, nausea, and vomiting. The patient states that the pain acute onset approximately 3 hours ago and has not improved. He denies any fever or chills. His last bowel movement was yesterday morning which was normal. The patient has a history of hypertension and infectious endocarditis 7 years ago. Current medications are hydrochlorothiazide and lisinopril. Patient denies any history of gastrointestinal disease although notes he frequently has abdominal discomfort after meals. Vital signs are as follows: blood pressure 150/90 mm Hg, heart rate 87/min, respiratory rate 22/min, and temperature of 37.4℃ (99.3℉). On physical examination, the patient is agitated and appears to be in significant pain. Lungs are clear to auscultation. The cardiac exam is significant for a 2/6 pansystolic grade murmur best heard at the apex and the presence of a pulse deficit. The abdomen is soft and nondistended, but there is tenderness to palpation in the periumbilical region. No rebound or guarding. Bowel sounds are present.\nLaboratory tests show the following results:\nRBC count 4.4 x 106/mm3\nHemoglobin 12.9 g/dL\nHematocrit 35%\nLeukocyte count 12,400/mm3\nPlatelet count 312,000/mm3\nSerum:  \nNa+ 140 mEq/L\nCl- 103 mEq/L\nK+ 4.4 mEq/L\nHCO3 20 mEq/L\nBase deficit -4\nBUN 11 mg/dL\nGlucose 97 mg/dL\nCreatinine 1.1 mg/dL\nCa2+ 10.7 mg/dL\nLactate 7.6 mmol/L\nAmylase 240 U/L\nStool guaiac negative\nEKG is significant for findings consistent with atrial fibrillation and left ventricular hypertrophy. Which of the following findings is most likely to be seen on this patient’s contrast CT of the abdomen?",
+    "answer": "Lack of enhancement of the branches of the superior mesenteric artery",
+    "options": {
+      "A": "Dilated appendix with distended lumen and thickened wall",
+      "B": "Numerous round and tubular structures communicating with the small intestine wall",
+      "C": "Inner and outer layer enhancement of the bowel wall with non-enhancing middle layer",
+      "D": "Lack of enhancement of the branches of the superior mesenteric artery",
+      "E": "Loss of normal haustral markings of the large bowel"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "D"
+  },
+  "2075": {
+    "question": "A 45-year-old man comes to the clinic complaining of yellow skin and eyes, loss of appetite, and severe nausea over the last month or so. He drinks 2–3 beers everyday and about 5–6 on the weekend. He does not take any over-the-counter medications. He has smoked one pack of cigarettes every day for the last 20 years but does not use illicit drugs. Additionally, he reports no history of vomiting, abdominal pain, altered bowel habits, or unintentional weight loss. His temperature is 37°C (98.6°F), blood pressure is 135/85 mm Hg, pulse is 78/ min, respiratory rate is 14/ min, and BMI is 19 kg/m2. On physical examination his skin and sclera are icteric, and his abdomen is tender with a mildly enlarged liver. On laboratory investigations:\nComplete blood count\nHemoglobin 11 g/dL\nMCV 105 µm3\nWhite blood cell 14,000/mm3\nPlatelets 110,000/mm3\nWhich of the following liver function analyses is expected in this patient?",
+    "answer": "Alanine aminotransferase (ALT): 120 / Aspartate aminotransferase (AST): 256 / AST/ALT: 2.1",
+    "options": {
+      "A": "Alanine aminotransferase (ALT): 38/ Aspartate aminotransferase (AST): 30 / AST/ALT: 0.79",
+      "B": "Alanine aminotransferase (ALT): 1,500 / Aspartate aminotransferase (AST): 1,089 / AST/ALT: 0.73",
+      "C": "Alanine aminotransferase (ALT): 120 / Aspartate aminotransferase (AST): 256 / AST/ALT: 2.1",
+      "D": "Alanine aminotransferase (ALT): 83 / Aspartate aminotransferase (AST): 72 / AST/ALT: 0.87",
+      "E": "Alanine aminotransferase (ALT): 2,521 / Aspartate aminotransferase (AST): 2,222 / AST/ALT: 0.88"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "8027": {
+    "question": "A 28-year-old woman presents to her physician for follow-up. She was found to be HIV-positive 9 months ago. Currently she is on ART with lamivudine, tenofovir, and efavirenz. She has no complaints and only reports a history of mild respiratory infection since the last follow-up. She is also allergic to egg whites. Her vital signs are as follows: the blood pressure is 120/75 mm Hg, the heart rate is 73/min, the respiratory rate is 13/min, and the temperature is 36.7°C (98.0°F). She weighs 68 kg (150 lb), and there is no change in her weight since the last visit. On physical examination, she appears to be pale, her lymph nodes are not enlarged, her heart sounds are normal, and her lungs are clear to auscultation. Her total blood count shows the following findings:\nErythrocytes 3.2 x 106/mm3\nHematocrit 36%\nHgb 10 g/dL\nTotal leukocyte count 3,900/mm3\nNeutrophils 66%\nLymphocytes 24%\nEosinophils 3%\nBasophils 1%\nMonocytes 7%\nBasophils 0\nPlatelet count 280,000/mm3\nHer CD4+ cell count is 430 cells/µL. The patient tells you she would like to get an influenza vaccination as flu season is coming. Which of the following statements is true regarding influenza vaccination in this patient?",
+    "answer": "The patient can get any approved recombinant or inactivated vaccine, including ones produced with egg-based technology.",
+    "options": {
+      "A": "As long as the patient is anemic, she should not be vaccinated.",
+      "B": "Nasal-spray influenza vaccine is the best option for vaccination in this patient.",
+      "C": "Inactivated or recombinant influenza vaccines fail to induce a sufficient immune response in patients with CD4+ cell counts under 500 cells/µL.",
+      "D": "Influenza vaccination is contraindicated in HIV-positive patients because of the serious complications they can cause in immunocompromised people.",
+      "E": "The patient can get any approved recombinant or inactivated vaccine, including ones produced with egg-based technology."
+    },
+    "meta_info": "step1",
+    "answer_idx": "E"
+  },
+  "5576": {
+    "question": "A 33-year-old woman presents to the physician because of abdominal discomfort, weakness, and fever. She has had a significant weight loss of 15 kg (33.1 lb) over the past 2 months. She has no history of medical illness and is not on any medications. Her pulse is 96/min, the blood pressure is 167/92 mm Hg, the respiratory rate is 20/min, and the temperature is 37.7°C (99.8°F). Her weight is 67 kg (147.71 lb), height is 160 cm (5 ft 3 in), and BMI is 26.17 kg/m2. Abdominal examination shows purple striae and a vaguely palpable mass in the left upper quadrant of the abdomen, which does not move with respirations. She has coarse facial hair and a buffalo hump along with central obesity. Her extremities have poor muscle bulk, and muscle weakness is noted on examination. An ultrasound of the abdomen demonstrates an adrenal mass with para-aortic lymphadenopathy. Which of the following is the most likely laboratory profile in this patient?",
+    "answer": "Impaired glucose tolerance, elevated serum cortisol, elevated 24-h urinary free cortisol, and low plasma ACTH",
+    "options": {
+      "A": "Normal glucose tolerance, elevated serum cortisol, normal 24-h urinary free cortisol, and normal plasma adrenocorticotropic hormone (ACTH)",
+      "B": "Impaired glucose tolerance, elevated serum cortisol, elevated 24-h urinary free cortisol, and high plasma ACTH",
+      "C": "Impaired glucose tolerance, elevated serum cortisol, elevated 24-h urinary free cortisol, and low plasma ACTH",
+      "D": "Impaired glucose tolerance, reduced serum cortisol, normal 24-h urinary free cortisol, and low plasma ACTH",
+      "E": "Impaired glucose tolerance, elevated serum cortisol, normal 24-h urinary free cortisol, and normal plasma ACTH"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "9604": {
+    "question": "A 31-year-old woman comes to the physician because she thinks that her “right wrist is broken.” She says that she has severe pain and that “the bone is sticking out.” She has not had any trauma to the wrist. Her medical records indicate that she was diagnosed with schizophrenia 2 years ago and treated with olanzapine; she has not filled any prescriptions over the past 4 months. Three weeks ago, she stopped going to work because she “did not feel like getting up” in the morning. Vital signs are within normal limits. Physical examination of the right wrist shows no visible injury; there is no warmth, swelling, or erythema. Range of motion is limited by pain. On mental status examination, she has a flat affect. Her speech is pressured and she frequently changes the topic. She has short- and long-term memory deficits. Attention and concentration are poor. There is no evidence of suicidal ideation. Urine toxicology screening is negative. An x-ray of the wrist shows no abnormalities. Which of the following is the most appropriate response to this patient's concerns?",
+    "answer": "“I cannot see any injury of your wrist and the physical exam as well as the x-ray don't show any injury. I imagine that feeling as if your wrist was broken may be very uncomfortable. Can you tell me more about what it feels like?”",
+    "options": {
+      "A": "“I cannot see any injury of your wrist and the physical exam as well as the x-ray don't show any injury. I imagine that feeling as if your wrist was broken may be very uncomfortable. Can you tell me more about what it feels like?”",
+      "B": "\"\"\"I understand your concerns; however, your symptoms seem to be psychogical in nature. I would be happy to refer you to a mental health professional.\"\"\"",
+      "C": "\"\"\"I can imagine that you are uncomfortable. That certainly looks painful. Let's take care of this injury first and then we should talk about your problems getting up in the morning.\"\"\"",
+      "D": "“It seems as though you are having a schizophrenia relapse. If you don't follow my recommendations and take your medications, you will most likely have further and possibly more severe episodes.”",
+      "E": "\"\"\"You are clearly distressed. However, your tests do not suggest a physical problem that can be addressed with medications or surgery. I suggest that we meet and evaluate your symptoms on a regular basis.\"\"\""
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "8368": {
+    "question": "A 57-year-old man with a known angina pectoris starts to experience a severe burning retrosternal pain that radiates to his left hand. After 2 consecutive doses of sublingual nitroglycerin taken 5 minutes apart, there is no improvement in his symptoms, and the patient calls an ambulance. Emergency medical service arrives within 10 minutes and begins evaluation and prehospital management. The vital signs include: blood pressure 85/50 mm Hg, heart rate 96/min, respiratory rate 19/min, temperature 37.1℃ (98.9℉), and SpO2 89% on ambient air. Oxygen supply and intravenous access are established. An ECG shows the findings in the given image. Which of the following is a part of a proper further prehospital management strategy for this patient?",
+    "answer": "Administer aspirin 325 mg and transport to percutaneous coronary intervention center",
+    "options": {
+      "A": "Administer aspirin 81 mg and transport to a percutaneous coronary intervention center",
+      "B": "Perform pre-hospital thrombolysis and transport to a percutaneous coronary intervention center",
+      "C": "Perform pre-hospital thrombolysis and transport to emergency department irrespective of percutaneous coronary intervention center presence",
+      "D": "Administer aspirin 325 mg and transport to percutaneous coronary intervention center",
+      "E": "Administer nitroglycerin and transport to percutaneous coronary intervention center"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "D"
+  },
+  "7664": {
+    "question": "Please refer to the summary above to answer this question\nAn 8-year-old boy is brought to the physician by his mother for a well-child examination at a clinic for low-income residents. Although her son's elementary school offers free afterschool programming, her son has not been interested in attending. Both the son's maternal and paternal grandmothers have major depressive disorder. The mother is curious about the benefits of afterschool programming and asks for the physician's input. Based on the study results, which of the following statements best addresses the mother's question?\"\n\"High-quality afterschool programming during childhood promotes long-term adult mental health\nBackground\nHigh-quality afterschool programming in children has been found to improve standardized test scores, dropout rates, and college attendance. The APPLE (Afterschool Programming for Psychiatric Long-term Endpoints) study seeks to examine the effect of such programs on long-term adult mental health.\nDesign, Setting, and Participants\nSocioeconomically disadvantaged children ages 5–10 were recruited for this study. Participants with a history of intellectual/developmental disability or existing psychiatric illness were excluded. Eligible families were identified by screening government social service agencies in Milwaukee, Wisconsin, and of all qualified families who were invited to participate in free afterschool enrichment activities for their children, 320 children were enrolled. The socioeconomic characteristics of study participants were found to be similar to those of the population being studied.\n160 children were randomly assigned to free afterschool enrichment activities and 160 to a waiting list that served as a control; the parents of 12 children declined participation after their children were randomly assigned to the control group. Of the 83 children participating in the study's 20-year follow-up, 62 were in the treatment group and 21 were in the control group.\nInterventions\nThe intervention involved free afterschool programming for the first three years of the study. The programming lasted three hours per day and was held five days per week, consisting of an hour of creative problem-based math/reading instruction supplemented with two hours of music, art, and athletic group activities. Children in the control group were placed on the waiting list for the intervention.\nMain Outcomes and Measures\nData on incidence of common DSM 5-validated mental health conditions was collected at the study's 20-year follow-up evaluation and confirmed by chart review.\nResults\nTable - Association of major depression, ADHD, bipolar disorder, and psychotic disorder at 20-year follow-up of participants who received afterschool enrichment during childhood*.\n*Adjusted for income and family history of psychiatric illness.\nMajor Depressive Disorder Attention Deficit Hyperactivity Disorder Bipolar Disorder (I or II) without Psychosis Any Psychotic Disorder\nHazard Ratio (95% CI) P -value Hazard Ratio (95% CI) P -value Hazard Ratio (95% CI) P -value Hazard Ratio (95% CI) P -value\nControl 1.0 [reference] -- 1.0 [reference] -- 1.0 [reference] -- 1.0 [reference] --\nAfterschool Enrichment 0.69 (0.59–0.87) < 0.001 0.80 (0.74–0.92) 0.02 0.64 (0.59–1.35) 0.34 0.84 (0.51–1.23) 0.22\nConclusions\nThis study highlights the potential of high-quality afterschool programming during childhood in promoting long-term adult mental health.\nSource of funding: Wisconsin Children's Mental Health Foundation, National Early Childhood Education Coalition\"",
+    "answer": "High-quality afterschool programming for low-income 8-year-olds may correlate with decreased ADHD risk in adults.",
+    "options": {
+      "A": "High-quality afterschool programming has a greater effect on reducing ADHD risk in adults than major depressive disorder risk.",
+      "B": "The patient's family history of psychiatric illness prevents any conclusions from being drawn from the study.",
+      "C": "High-quality afterschool programming would decrease this patient's risk of developing major depressive disorder.",
+      "D": "High-quality afterschool programming has a greater effect on reducing psychotic disorder risk in adults than bipolar disorder risk.",
+      "E": "High-quality afterschool programming for low-income 8-year-olds may correlate with decreased ADHD risk in adults."
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "E"
+  },
+  "5637": {
+    "question": "A 3-year-old boy is brought to the pediatrician by his parents because of excessive growth and a large tongue. His past medical-social history reveals that he is a product of non-consanguineous marriage to a 20-year-old primigravida. He was born at full term with a birth weight of 3.8 kg (8.4 lb) and length of 52 cm (20.5 in). His temperature is 37.0ºC (98.6°F), pulse is 90/min, and respirations are 22/min. Physical examination shows a mass coming out from his umbilicus and his head circumference is below average compared with children his age. On systemic examination, hepatomegaly is present. Asymptomatic hypoglycemia (36 mg/dL) is also detected, for which dextrose infusion is given. Which of the following is the most likely underlying mechanism that best explains the pathogenesis of this condition?",
+    "answer": "Mutation in tumor suppressor gene on the short arm of chromosome 11",
+    "options": {
+      "A": "Mutation in tumor suppressor gene on the long arm of chromosome 11",
+      "B": "Mutation in tumor suppressor gene on the short arm of chromosome 11",
+      "C": "Mutation in tumor suppressor gene on the long arm of chromosome 22",
+      "D": "Nondisjunction of chromosome 21",
+      "E": "Mutation in tumor suppressor gene on the long arm of chromosome 17"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "7796": {
+    "question": "A 45-year-old man presents to the surgery clinic with an ulcer on his left heel, which he first noticed a week ago. He was surprised by the large size of the ulcer since because he had never noticed it before, and it was asymptomatic. The man also noticed fluid oozing out of the ulcer, which he has been wiping off with a clean cloth. He has had diabetes mellitus for the past 10 years and hypertension for the past 8 years. His medications include metformin and enalapril, although he tends to not take them as directed. His vital signs are normal. Examination of his left foot reveals a 3 cm x 3 cm ulcer with an irregular border and clear fluid over the base with erythema in the surrounding skin. An image of the lesion is taken and shown below. Laboratory investigations reveal the following:\nCapillary blood glucose (CBG) 340 mg/dL\nHemoglobin (Hb%) 9.8 mg/dL\nWhite blood cell count (WBC) 16,000/mm3\nErythrocyte sedimentation rate (ESR) 34 mm in the 1st hour\nThe physician recommends wound debridement and prescribes an antibiotic for 1 week. The patient is also told to control his blood sugar by taking his medications regularly and paying better attention to his diet. He is also advised to change his dressing daily for the next 7 days. After 1 week, the patient’s ulcer begins to heal. Which of the following best describes the healing process of this patient’s lesion?",
+    "answer": "A greater volume of granulation tissue is formed during healing by secondary intention, which results in a larger scar followed by wound contraction.",
+    "options": {
+      "A": "A greater volume of granulation tissue is formed during healing by secondary intention, which results in a larger scar followed by wound contraction.",
+      "B": "During the process of healing, large tissue defects have a greater volume of necrotic debris, exudate, and fibrin that aids with healing.",
+      "C": "During healing by secondary intention, a small scar is formed, with minimal wound contraction.",
+      "D": "In this type of healing, the inflammatory reaction is not intense, and healing is completed within 2 weeks.",
+      "E": "During healing by secondary intention, the narrow space is first filled with fibrin-clotted blood; granulation tissue is formed later and covered by new epithelium."
+    },
+    "meta_info": "step1",
+    "answer_idx": "A"
+  },
+  "975": {
+    "question": "A 27-year-old man is brought to the emergency department by emergency medical services. The patient was an unrestrained passenger in a head-on collision that occurred 15 minutes ago and is currently unresponsive. His temperature is 99.5°F (37.5°C), blood pressure is 60/33 mmHg, pulse is 180/min, respirations are 17/min, and oxygen saturation is 95% on room air. A FAST exam demonstrates fluid in Morrison’s pouch. Laboratory values are drawn upon presentation to the ED and sent off. The patient is started on IV fluids and an initial trauma survey is started. Twenty minutes later, his blood pressure is 95/65 mmHg, and his pulse is 110/min. The patient is further stabilized and is scheduled for emergency surgery. Which of the following best represents this patient’s most likely initial laboratory values?",
+    "answer": "Hemoglobin: 15 g/dL, Hematocrit: 45%, MCV: 90 µm^3",
+    "options": {
+      "A": "Hemoglobin: 19 g/dL, Hematocrit: 55%, MCV: 95 µm^3",
+      "B": "Hemoglobin: 15 g/dL, Hematocrit: 45%, MCV: 90 µm^3",
+      "C": "Hemoglobin: 11 g/dL, Hematocrit: 33%, MCV: 88 µm^3",
+      "D": "Hemoglobin: 10 g/dL, Hematocrit: 30%, MCV: 110 µm^3",
+      "E": "Hemoglobin: 7 g/dL, Hematocrit: 21%, MCV: 75 µm^3"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "1686": {
+    "question": "A 62-year-old woman presents with abdominal pain and blood in her urine. Since the acute onset of symptoms 3 days ago, there has been no improvement. She describes the pain as moderate, sharp and burning in character, non-radiating, and localized to the suprapubic region. She also has noted some mild urinary frequency and urgency for the past 5 days, which has been getting progressively worse. She denies any flank pain, fever, chills, night sweats, dysuria, or pain on urination. The patient has a history of an abdominal leiomyosarcoma, which was diagnosed 6 months ago. The course of her disease is complicated by hepatic metastases, for which she recently started receiving a new therapy. The patient reports a 15-pack-year smoking history, but no alcohol or recreational drug use. Her temperature is 37.0℃ (98.6℉), pulse is 84/min, respiratory rate is 18/min, and blood pressure is 110/75 mm Hg. On physical examination, there is some mild suprapubic tenderness to palpation. The remainder of the exam is unremarkable. Laboratory findings include a mild leukopenia of 3,000/mm3. A urine dipstick reveals 3+ blood. Which of the following best describes the medication that could have prevented this patient’s symptoms?",
+    "answer": "A thiol given concurrently with an antineoplastic agent to help reduce inflammation of the transitional epithelium of the bladder",
+    "options": {
+      "A": "Serine protease inhibitor that reduces the action of plasmin",
+      "B": "Agent that binds to an intracellular receptor and results in the transactivation of genes that promote gluconeogenesis and has anti-inflammatory effects",
+      "C": "A thiol given concurrently with an antineoplastic agent to help reduce inflammation of the transitional epithelium of the bladder",
+      "D": "Monoclonal antibody that inhibits bcr-abl tyrosine kinase, blocking cell proliferation and inducing apoptosis",
+      "E": "Antifolate that inhibits dihydrofolate reductase, inhibiting purine production necessary for cell synthesis and division"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "7409": {
+    "question": "A 37-year-old man presents with dull, continuous epigastric pain that radiates to the back in a circumscribing fashion. The history is significant for 3 episodes of acute pancreatitis that were managed conservatively. He reports no history of such episodes in his relatives and denies a family history of any cardiovascular or gastrointestinal disorders. The vital signs include: blood pressure 105/70 mm Hg, heart rate 101/min, respiratory rate 17/min, and temperature 37.4℃ (99.3℉). The physical examination reveals epigastric tenderness, slight muscle guarding, a positive Mayo-Robson’s sign, and abdominal distention. Laboratory studies show the following findings:\nComplete blood count\nErythrocytes 4.5 x 106/mm3\nHgb 14.7 g/dL\nHct 43%\nLeukocytes 12,700/mm3\nSegmented neutrophils  65%\nBands 4%\nEosinophils 1%\nBasophils 0%\nLymphocytes 27%\nMonocytes 3%\n    Biochemistry\nSerum amylase 170 U/L\nALT 21 U/L\nAST 19 U/L\nTotal serum cholesterol 139 mg/dL (3.6 mmol/L)\nSerum triglycerides 127 mg/dL (1.4 mmol/L)\nThe magnetic resonance cholangiopancreatography findings are shown in the exhibit. What embryogenic disruption could cause such anatomic findings?",
+    "answer": "Failure of fusion of dorsal and ventral pancreatic duct anlages",
+    "options": {
+      "A": "Duplication of the embryonic pancreatic duct",
+      "B": "Ectopy of the developing bile duct",
+      "C": "Failure of fusion of dorsal and ventral pancreatic duct anlages",
+      "D": "Duplication of the pancreatic bud of the midgut",
+      "E": "Improper rotation of the anterior pancreatic bud"
+    },
+    "meta_info": "step1",
+    "answer_idx": "C"
+  },
+  "1755": {
+    "question": "A 32-year-old woman presents to her primary care physician for recent onset headaches, weight loss, and restlessness. Her symptoms started yesterday, and since then she has felt sweaty and generally uncomfortable. The patient’s past medical history is unremarkable except for a recent viral respiratory infection which resolved on its own. The patient is not currently on any medications. Her temperature is 99.5°F (37.5°C), blood pressure is 127/68 mmHg, pulse is 110/min, respirations are 14/min, and oxygen saturation is 98% on room air. On physical exam, you see a sweaty and uncomfortable woman who has a rapid pulse. The patient demonstrates no abnormalities on HEENT exam. The patient’s laboratory values are ordered as seen below.\n\nHemoglobin: 12 g/dL\nHematocrit: 36%\nLeukocyte count: 8,500/mm^3 with normal differential\nPlatelet count: 195,000/mm^3\n\nSerum:\nNa+: 139 mEq/L\nCl-: 102 mEq/L\nK+: 4.4 mEq/L\nHCO3-: 24 mEq/L\nBUN: 20 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.0 mg/dL\nCa2+: 10.2 mg/dL\nTSH: .03 mIU/L\nAST: 12 U/L\nALT: 10 U/L\n\nThe patient is prescribed propranolol and proplythiouracil. She returns 1 week later complaining of severe fatigue. Laboratory values are ordered as seen below.\n\nHemoglobin: 12 g/dL\nHematocrit: 36%\nLeukocyte count: 8,500/mm^3 with normal differential\nPlatelet count: 195,000/mm^3\n\nSerum:\nNa+: 139 mEq/L\nCl-: 102 mEq/L\nK+: 4.4 mEq/L\nHCO3-: 24 mEq/L\nBUN: 20 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.0 mg/dL\nCa2+: 10.2 mg/dL\nTSH: 6.0 mIU/L\nAST: 12 U/L\nALT: 10 U/L\n\nWhich of the following is the best next step in management?",
+    "answer": "Discontinue current medications",
+    "options": {
+      "A": "Decrease dose of current medications",
+      "B": "Discontinue current medications and add ibuprofen",
+      "C": "Discontinue current medications and add T4",
+      "D": "Discontinue medications and add T3",
+      "E": "Discontinue current medications"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "E"
+  },
+  "2881": {
+    "question": "A 62-year-old woman presents to the clinic with a lacerated wound on her left forearm. She got the wound accidentally when she slipped in her garden and scraped her hand against some nails sticking out of the fence. The patient has rheumatoid arthritis and takes methylprednisolone 16 mg/day. She cannot recall her vaccination history. On physical examination her blood pressure is 140/95 mm Hg, heart rate is 81/min, respiratory rate is 16/min, and temperature is 36.9°C (98.4°F). The wound is irregularly shaped and lacerated and measures 4 × 5 cm with a depth of 0.5 cm. It is contaminated with dirt. The physician decides to administer both the tetanus toxoid and immunoglobulin after wound treatment. What is true regarding the tetanus prophylaxis in this patient?",
+    "answer": "The immunoglobulin administration will provide sufficient levels of anti-tetanus toxin antibodies until the production of the patient’s own antibodies starts.",
+    "options": {
+      "A": "It does not make sense to administer tetanus toxoid as it will fail to induce sufficient immunity in a patient who takes oral glucocorticoids.",
+      "B": "The immunoglobulin is given to this patient to promote the action of the toxoid and antibody production.",
+      "C": "The immunoglobulin administration will provide sufficient levels of anti-tetanus toxin antibodies until the production of the patient’s own antibodies starts.",
+      "D": "It does not make sense to administer tetanus toxoid as it will fail to induce sufficient immunity in patients aged more than 60 years.",
+      "E": "Immunoglobulin administration can provide constant levels of antibodies in the patient’s blood for more than 4 months."
+    },
+    "meta_info": "step1",
+    "answer_idx": "C"
+  },
+  "4806": {
+    "question": "A 74-year-old man presents to the emergency department by paramedics for slurred speech and weakness in the left arm and leg for 1 hour. The patient was playing with his grandson when the symptoms started and his wife immediately called an ambulance. There is no history of head trauma or recent surgery. The patient takes captopril for hypertension. The vital signs include: pulse 110/min, respiratory rate 22/min, and blood pressure 200/105 mm Hg. The physical examination shows that the patient is alert and conscious, but speech is impaired. Muscle strength is 0/5 in the left arm and leg and 5/5 in the right arm and leg. A non-contrast CT of the head shows no evidence of intracranial bleeding. The lab results are as follows:\nSerum glucose 90 mg/dL\nSodium 140 mEq/L\nPotassium 4.1 mEq/L\nChloride 100 mEq/L\nSerum creatinine 1.3 mg/dL\nBlood urea nitrogen 20 mg/dL\nCholesterol, total 240 mg/dL\nHDL-cholesterol 38 mg/dL\nLDL-cholesterol 100 mg/dL\nTriglycerides 190 mg/dL\nHemoglobin (Hb%) 15.3 g/dL\nMean corpuscular volume (MCV) 83 fL\nReticulocyte count 0.8%\nErythrocyte count 5.3 million/mm3\nPlatelet count 130,000/mm3\nPartial thromboplastin time (aPTT)  30 sec\nProthrombin time (PT) 12 sec\nAlthough he is within the time frame for the standard therapy of the most likely condition, the treatment cannot be started because of which of the following contraindications?",
+    "answer": "Systolic blood pressure of 200 mm Hg",
+    "options": {
+      "A": "Creatinine level of 1.3 mg/dL",
+      "B": "A platelet count of 130,000/mm3",
+      "C": "Cholesterol level of 240 mg/dL",
+      "D": "Systolic blood pressure of 200 mm Hg",
+      "E": "Age of 74 years"
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  },
+  "169": {
+    "question": "A 52-year-old farmer presents to his physician with a puncture wound on his left shin. He got this wound accidentally when he felt unwell and went out to his garden \"to catch some air\". He reports he had been treated for tetanus 35 years ago and has received the Tdap vaccine several times since then, but he does not remember when he last received the vaccine. His vital signs are as follows: the blood pressure is 110/80 mm Hg, heart rate is 91/min, respiratory rate is 19/min, and temperature is 37.8°C (100.0°F). On physical examination, he is mildly dyspneic and pale. Lung auscultation reveals diminished vesicular breath sounds in the lower lobes bilaterally with a few inspiratory crackles heard over the left lower lobe. There is a puncture wound 1 cm in diameter that is contaminated with soil in the middle third of the patient’s shin. You order blood tests and an X-ray, and now you are arranging his wound treatment. How should tetanus post-exposure prevention be performed in this case?",
+    "answer": "The patient should receive both tetanus toxoid-containing vaccine and human tetanus immunoglobulin.",
+    "options": {
+      "A": "The patient should only be administered human tetanus immunoglobulin, because he is acutely ill and febrile, which are contraindications for tetanus toxoid-containing vaccine administration.",
+      "B": "The patient does not need tetanus post-exposure prevention, because he has a past medical history of tetanus.",
+      "C": "The patient does not need tetanus post-exposure prevention, because he received the Tdap vaccine several times in the past.",
+      "D": "The patient should receive both tetanus toxoid-containing vaccine and human tetanus immunoglobulin.",
+      "E": "The patient should be administered only the Tdap vaccine, because it is a minor wound with a small area of possible toxin absorption."
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  },
+  "2232": {
+    "question": "A 68-year-old woman presents with shortness of breath and left-sided chest pain for a week. She says that her breathlessness is getting worse, and the chest pain is especially severe when she takes a deep breath. The patient denies any similar symptoms in the past. Her past medical history is insignificant except for occasional heartburn. She currently does not take any medication. She is a nonsmoker and drinks alcohol occasionally. She denies the use of any illicit drugs including marijuana. Vital signs are: blood pressure 122/78 mm Hg, pulse 67/min, respiratory rate 20/min, temperature 37.2°C (99.0°F). Her physical examination is remarkable for diminished chest expansion on the left side, absence of breath sounds at the left lung base, and dullness to percussion and decreased tactile fremitus on the left. A plain radiograph of the chest reveals a large left-sided pleural effusion occupying almost two-thirds of the left lung field. Thoracentesis is performed, and 2 L of fluid is drained from the thorax under ultrasound guidance. Which of the following patient positions and points of entry is the safest for performing a thoracentesis in this patient?",
+    "answer": "With the patient in the sitting position, below the tip of the scapula midway between the spine and the posterior axillary line on the superior margin of the eighth rib",
+    "options": {
+      "A": "With the patient in the sitting position, below the tip of the scapula midway between the spine and the posterior axillary line on the superior margin of the eighth rib",
+      "B": "With the patient in the sitting position, just above the fifth rib in the anterior axillary line",
+      "C": "With the patient in the sitting position, at the midclavicular line on the second intercostal space",
+      "D": "With the patient in the supine position, just above the fifth rib in the midaxillary line",
+      "E": "With the patient in the supine position, in the fifth intercostal space right below the nipple"
+    },
+    "meta_info": "step1",
+    "answer_idx": "A"
+  },
+  "7258": {
+    "question": "A 33-year-old Hispanic woman who recently immigrated to the United States with her newborn daughter is presenting to a free clinic for a wellness checkup for her baby. As part of screening for those immigrating or seeking refuge in the United States, she and her child are both evaluated for tuberculosis. The child’s purified protein derivative (PPD) test and chest radiograph are negative, and although the mother’s chest radiograph is also negative, her PPD is positive. She states that she is currently asymptomatic and has no known history of tuberculosis (TB). The mother’s vital signs include: blood pressure 124/76 mm Hg, heart rate 74/min, and respiratory rate 14/min. She is advised to begin treatment with isoniazid, supplemented with pyridoxine for the next 9 months. She asks about the potential for harm to the child if she begins this course of treatment since she is breastfeeding. Which of the following is the most appropriate response to this patient’s concerns?",
+    "answer": "“You may breastfeed your baby because you are asymptomatic and because neither isoniazid nor pyridoxine will harm your child.”",
+    "options": {
+      "A": "“You should not breastfeed your baby because she is at greater risk for infection with TB than for adverse side effects of your treatment regimen.”",
+      "B": "“You should not breastfeed your baby for the next 9 months because isoniazid in breast milk can damage your child’s liver.”",
+      "C": "“You should not breastfeed your baby for the next 9 months because pyridoxine in breast milk can damage your child’s liver.”",
+      "D": "“You may breastfeed your baby because pyridoxine will prevent isoniazid from causing peripheral neuropathy.”",
+      "E": "“You may breastfeed your baby because you are asymptomatic and because neither isoniazid nor pyridoxine will harm your child.”"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "E"
+  },
+  "1202": {
+    "question": "A 32-year-old woman comes to the office for a regular follow-up. She was diagnosed with type 2 diabetes mellitus 4 years ago. Her last blood test showed a fasting blood glucose level of 6.6 mmol/L (118.9 mg/dL) and HbA1c of 5.1%. No other significant past medical history. Current medications are metformin and a daily multivitamin. No significant family history. The physician wants to take her blood pressure measurements, but the patient states that she measures it every day in the morning and in the evening and even shows him a blood pressure diary with all the measurements being within normal limits. Which of the following statements is correct?",
+    "answer": "The physician has to measure the patient’s blood pressure because it is a standard of care for any person with diabetes mellitus who presents for a check-up.",
+    "options": {
+      "A": "The physician should not measure the blood pressure in this patient and should simply make a note in a record showing the results from the patient’s diary.",
+      "B": "The physician should not measure the blood pressure in this patient because she does not have hypertension or risk factors for hypertension.",
+      "C": "The physician has to measure the patient’s blood pressure because it is a standard of care for any person with diabetes mellitus who presents for a check-up.",
+      "D": "The physician should not measure the blood pressure in this patient because the local standards of care in the physician’s office differ from the national standards of care so measurements of this patient’s blood pressure can not be compared to diabet",
+      "E": "Assessment of blood pressure only needs to be done at the initial visit; it is not necessary to measure blood pressure in this patient at any follow-up appointments."
+    },
+    "meta_info": "step1",
+    "answer_idx": "C"
+  },
+  "4912": {
+    "question": "A 46-day-old baby is admitted to the pediatric ward with an elevated temperature, erosive periumbilical lesion, clear discharge from the umbilicus, and failure to thrive. She is the first child of a consanguineous couple born vaginally at 38 weeks gestation in an uncomplicated pregnancy. She was discharged home from the nursery within the first week of life without signs of infection or jaundice. The umbilical cord separated at 1 month of age with an increase in temperature and periumbilical inflammation that her mother treated with an herbal decoction. The vital signs are blood pressure 70/45 mm Hg, heart rate 129/min, respiratory rate 26/min, and temperature, 38.9°C (102.0°F). The baby's weight is between the 10th and 5th percentiles and her length is between the 50th and 75th percentiles for her age. The physical examination shows an erosive lesion with perifocal erythema in the periumbilical region with drainage but no pus. The rest of the examination is within normal limits for the patient’s age. The complete blood count shows the following results:\nErythrocytes 3.4 x 106/mm3\nHb 11 g/dL\nTotal leukocyte count\nNeutrophils\nLymphocyte\nEosinophils\nMonocytes\nBasophils 49.200/mm3\n61%\n33%\n2%\n2%\n2%\nPlatelet count 229,000/mm3\nThe umbilical discharge culture shows the growth of Staphylococcus aureus. Flow cytometry is performed for suspected primary immunodeficiency. The patient is shown to be CD18-deficient. Which of the following statements best describes the patient’s condition?",
+    "answer": "The patient’s leukocytes fail to adhere to the endothelium during their migration to the site of infection.",
+    "options": {
+      "A": "The patient’s neutrophils fail to produce reactive oxygen species to destroy engulfed bacteria.",
+      "B": "The patient’s leukocytes cannot interact with selectins expressed on the surface of endothelial cells.",
+      "C": "The patient’s leukocytes fail to adhere to the endothelium during their migration to the site of infection.",
+      "D": "There is excessive secretion of IL-2 in this patient.",
+      "E": "The patient has impaired formation of membrane attack complex."
+    },
+    "meta_info": "step1",
+    "answer_idx": "C"
+  },
+  "6535": {
+    "question": "A 75-year-old male presents to the emergency room complaining of severe lower abdominal pain and an inability to urinate. He reports that he last urinated approximately nine hours ago. When asked to urinate, only a few drops dribble from the tip of his penis. Further questioning reveals that the patient has experienced progressively worsening difficulty with urinating over the past two years. He has lived alone for five years since his wife passed away. He has not seen a doctor in that time. His temperature is 98.8°F (37.1°C), blood pressure is 145/90 mmHg, pulse is 115/min, and respirations are 22/min. He appears to be in severe pain. Physical examination reveals a distended bladder and significant tenderness to palpation over the inferior aspect of his abdomen. Which of the following sets of lab values would most likely be found in a urinalysis of this patient?",
+    "answer": "Urine osmolality 300 mOsmol/kg H2O, Urine Na+ 45 mEq/L, FENa 5%, no casts",
+    "options": {
+      "A": "Urine osmolality 400 mOsmol/kg H2O, Urine Na+ 25 mEq/L, FENa 1.5%, no casts",
+      "B": "Urine osmolality 200 mOsmol/kg H2O, Urine Na+ 35 mEq/L, FENa 3%, muddy brown casts",
+      "C": "Urine osmolality 550 mOsmol/kg H2O, Urine Na+ 15 mEq/L, FENa 0.9%, red blood cell casts",
+      "D": "Urine osmolality 600 mOsmol/kg H2O, Urine Na+ 15 mEq/L, FENa 0.8%, hyaline casts",
+      "E": "Urine osmolality 300 mOsmol/kg H2O, Urine Na+ 45 mEq/L, FENa 5%, no casts"
+    },
+    "meta_info": "step1",
+    "answer_idx": "E"
+  },
+  "5244": {
+    "question": "Over the course of a year, 5 children with identical congenital heart defects were referred to a pediatric cardiac surgeon for evaluation. All 5 children had stable vital signs and were on appropriate medication. Upon review of medical records, all of them had a loud holosystolic murmur over the third intercostal space at the left sternal border. The surgeon ordered echocardiograms for all 5 children and recommended surgical closure of the defect in one of them. Which of the following patients required surgical repair of their defect?",
+    "answer": "A 2-year-old boy with a 2-mm supracristal defect, without heart failure, pulmonary hypertension, or growth failure",
+    "options": {
+      "A": "A 4-month-old male infant with a 12-mm muscular defect, without heart failure, pulmonary hypertension or growth failure",
+      "B": "An 11-month-old female infant with a 6-mm membranous defect, without heart failure, pulmonary hypertension, or growth failure",
+      "C": "A 2-year-old boy with a 2-mm supracristal defect, without heart failure, pulmonary hypertension, or growth failure",
+      "D": "A 5-year-old girl with a 2-mm membranous defect, no heart failure, a Qp:Qs ratio less than 2:1, and no growth failure",
+      "E": "A 7-year-old boy with an 11-mm muscular defect and severe pulmonary vascular disease non-responsive to pulmonary vasodilators"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "9552": {
+    "question": "A researcher is investigating the relationship between inflammatory mediators and omega-3 fatty acids, namely docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), in post-MI patients. IL-1ß is an important pro-inflammatory cytokine involved in fibrosis and arrhythmias in the post-MI period. Research indicates that it causes loss of function in the gap junction connexin 43 (Cx43), resulting in an arrhythmogenic state. They perform an experiment investigating the cardioprotective effect of DHA on patients after a recent MI. Their results are shown in a Western blot analysis. Which of the following is the most accurate conclusion from these results?",
+    "answer": "Fatty acids with double bonds in the 3rd position adjacent to the terminal carbon are cardioprotective against the effects of IL-1β in post-MI cells.",
+    "options": {
+      "A": "Fatty acids with double bonds in the 3rd position adjacent to the carboxy-terminus are cardioprotective against the effects of IL-1β in post-MI cells.",
+      "B": "Fatty acids with double bonds in the 3rd position adjacent to the terminal carbon are cardioprotective against the effects of IL-1β in post-MI cells.",
+      "C": "Fatty acids with 3 cis-double bonds provide minimal benefits against arrhythmias after myocardial infarctions.",
+      "D": "Fatty acids with double bonds in the 3rd position adjacent to the carboxy-terminus provide minimal benefits against arrhythmias after myocardial infarctions.",
+      "E": "Fatty acids with double bonds in the 3rd position adjacent to the terminal carbon provide minimal benefits against arrhythmias after myocardial infarctions."
+    },
+    "meta_info": "step1",
+    "answer_idx": "B"
+  },
+  "6649": {
+    "question": "A 17-year-old boy presents to the emergency department of a hospital located in the town of Recuay (which is situated at 3,400 meters above mean sea level [MAMSL]) in the Ancash Region (Peru), 48 hours after returning from a 21-day stay in Lima (the capital city of Peru at 0 MAMSL). The patient has no previous medical history. His current complaints include cough, dyspnea at rest, hemoptysis, chest pain, and vomiting. His vital signs include: blood pressure 90/60 mm Hg; heart rate 149/min; respiratory rate 37/min; temperature 36.5°C (97.7°F); and O2 saturation 71%. Physical examination reveals polypnea, perioral cyanosis, intercostal retractions, and diffuse pulmonary crackles. His laboratory results are as follows:\nHemoglobin 19.2 g/dL\nHematocrit 60%\nLeukocytes 13,000 (Bands: 12%, Seg: 78%, Eos: 0%, Bas: 0%, Mon: 6%)\nUrea 25 mg/dL\nCreatinine 0.96 mg/dL\nA chest X-ray is shown. Which of the following statements is true and most likely regarding this patient’s condition?\n ",
+    "answer": "Marked increase in pressure gradient can lead to tissue hypoxia",
+    "options": {
+      "A": "Following a rapid and sustained increase in altitude, decreased sympathetic activity transiently increases cardiac output, blood pressure, heart rate, and venous tone",
+      "B": "Hypoxic stimulation of the peripheral chemoreceptors results in increased minute ventilation",
+      "C": "Marked increase in pressure gradient can lead to tissue hypoxia",
+      "D": "The net change in response to hypoxia results in decreased cerebral blood flow",
+      "E": "The pulmonary vasculature relaxes in response to hypoxia"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "2993": {
+    "question": "A 62-year-old man is brought to the emergency department by his wife for high blood pressure readings at home. He is asymptomatic. He has a history of hypertension and hyperlipidemia for which he takes atenolol and atorvastatin, however, his wife reports that he recently ran out of atenolol and has not been able to refill it due to lack of health insurance. His temperature is 36.8°C (98.2°F), the pulse 65/min, the respiratory rate 22/min, and the blood pressure 201/139 mm Hg. He has no papilledema on fundoscopic examination. A CT scan shows no evidence of intracranial hemorrhage or ischemia. Of the following, what is the next best step?",
+    "answer": "Start or restart low-dose medication to reduce blood pressure gradually over the next 24–48 hours",
+    "options": {
+      "A": "Start or restart low-dose medication to reduce blood pressure gradually over the next 24–48 hours",
+      "B": "Start or restart low-dose medication to reduce blood pressure aggressively over the next 24–48 hours",
+      "C": "Start high-dose medication to bring his blood pressure to under 140/90 within 24 hours",
+      "D": "Admit him to the ICU and start intravenous medication to reduce blood pressure by 10% in the first hour",
+      "E": "Admit him to the ICU and start intravenous medication to reduce blood pressure by 25% in the first 4 hours"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "3100": {
+    "question": "A 24-year-old woman presents with a 3-month history of bloody diarrhea and intermittent abdominal pain. She says that after she has a bowel movement, she still feels as though she needs to go more. She also reports a 10-pound weight loss, significant fatigue, and frequent cravings to chew ice. Her past medical history is significant only for chronic iron deficiency anemia since high school. She currently takes a women’s multivitamin and ferrous sulfate 65 mg orally once daily. She is on the college track team but now is too tired to participate in practice. Her family history is significant for colon cancer and her grandmother died from breast cancer in her 70’s. Her vital signs include: temperature 37.0°C (98.6°F), pulse 102/min, respiratory rate 16/min, blood pressure 100/75 mm Hg. Physical examination is significant for conjunctival pallor, koilonychia, and the cutaneous findings shown in the exhibit. Laboratory tests show elevated ESR and C-reactive protein and findings consistent with iron deficiency anemia. A barium enema demonstrates a lead pipe appearance and a loss of haustra. Which of the following are the recommended screening guidelines for colorectal cancer for this patient?",
+    "answer": "Colonoscopy by age 32 and repeated every 1–2 years thereafter",
+    "options": {
+      "A": "Colonoscopy by age 32 and repeated every 1–2 years thereafter",
+      "B": "Colonoscopy by age 50 and repeated every 10 years thereafter",
+      "C": "Colonoscopy by age 32 and repeated every 3 years thereafter",
+      "D": "Colonoscopy by age 45 and repeated every 10 years thereafter",
+      "E": "Flexible sigmoidoscopy by age 32 and repeated every 1–2 years thereafter"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "7666": {
+    "question": "A researcher is investigating the behavior of two novel chemotherapeutic drugs that he believes will be effective against certain forms of lymphoma. In order to evaluate the safety of these drugs, this researcher measures the concentration and rate of elimination of each drug over time. A partial set of the results is provided below.\n\nTime 1:\nConcentration of Drug A: 4 mg/dl\nConcentration of Drug B: 3 mg/dl\nElimination of Drug A: 1 mg/minute\nElimination of Drug B: 4 mg/minute\n\nTime 2:\nConcentration of Drug A: 2 mg/dl\nConcentration of Drug B: 15 mg/dl\nElimination of Drug A: 0.5 mg/minute\nElimination of Drug B: 4 mg/minute\n\nWhich of the following statements correctly identifies the most likely relationship between the half-life of these two drugs?",
+    "answer": "The half-life of drug A is constant but that of drug B is variable",
+    "options": {
+      "A": "The half-life of drug A is always longer than that of drug B",
+      "B": "The half-life of both drug A and drug B are constant",
+      "C": "The half-life of drug A is constant but that of drug B is variable",
+      "D": "The half-life of drug A is variable but that of drug B is constant",
+      "E": "The half-life of both drug A and drug B are variable"
+    },
+    "meta_info": "step1",
+    "answer_idx": "C"
+  },
+  "8652": {
+    "question": "A 39-year-old female presents with confusion. Her husband reports that she doesn't know where she is and cannot remember the date. She was recently diagnosed with small cell lung cancer. Vital signs are T 37C, HR 80, BP 120/80 mmHg, RR 14, and O2 sat 99% on room air. She is not orthostatic. Physical examination reveals moist mucous membranes and normal capillary refill. A basic metabolic profile reveals that serum sodium is 129. Regarding this patient's illness, which of the following is true?",
+    "answer": "Urinary osmolarity will be > 100, and this illness will not correct with saline infusion",
+    "options": {
+      "A": "Urinary osmolarity will be > 100, and this illness will not correct with saline infusion",
+      "B": "Urinary osmolarity will be < 100, and another potential cause of this disorder is excessive water drinking",
+      "C": "Urinary sodium will be > 20 and fractional excretion of sodium will be >1%",
+      "D": "Urinary sodium will be < 10, and fractional excretion of sodium will be <1%",
+      "E": "Urinary sodium will be > 20 and another potential cause of this disorder is renal failure"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "3369": {
+    "question": "A 64-year-old woman presents for the scheduled annual physical examination for management of her hypertension. The patient is asymptomatic and her blood pressure is within normal limits throughout the year. She has a past medical history of polyarthrosis, and she is a carrier of hepatitis B antibodies. She does not smoke or drink alcohol. She is currently taking the following medications: enalapril, ranitidine, and lorazepam. The vital signs include: pulse rate 72/min, respiratory rate 14/min, blood pressure 138/76 mm Hg, and temperature 37.0°C (98.6°F). The physical examination shows no abnormalities. The laboratory test results are shown below:\nHemoglobin 11.6 g/dL\nHematocrit 34.8%\nMCV 91.4 fL\nMCH 31.4 pg\nPlatelets 388,000/mm3\nLeukocytes 7,300/mm3\nESR 59 mm/h\nOn account of these laboratory test results, the patient was once again questioned for symptoms that would explain the abnormality detected in her laboratory test results. The patient insists that she is asymptomatic. Therefore, further laboratory studies were requested. The additional laboratory test results are shown below:\nPCR 5.3 mg/dL\nSerum protein electrophoresis\nTotal proteins 7.4 g/dL\nAlbumin 5.8 g/dL\nAlpha-1 3.5 g/dL\nAlpha-2 1 g/dL\nBeta 0.9 g/dL\nGamma 1.7 g/dL\nThe gamma protein was later confirmed as an immunoglobulin G (IgG) kappa paraprotein (1,040 mg/dL). Due to these results a computed tomography (CT) scan was conducted, and it showed moderate osteopathy without any other lesions. A bone marrow biopsy was done that showed 5–10% plasma cells. Which of the following is most likely associated with the diagnosis of this patient?",
+    "answer": "Osteoporosis",
+    "options": {
+      "A": "Acanthosis nigricans",
+      "B": "Myeloblasts with azurophilic granules",
+      "C": "Osteoporosis",
+      "D": "Richter’s transformation",
+      "E": "Teardrop cells in blood smear"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "3985": {
+    "question": "A 71-year-old male is admitted to the hospital with a Staphylococcal aureus infection of his decubitus ulcers. He is diabetic and has a body mass index of 45. His temperature is 37°C (98.6°F), respirations are 15/min, pulse is 67/min and blood pressure is 122/98 mm Hg. The nurse is monitoring his blood glucose and records it as 63 mg/dL. She then asks the resident on call if the patient should receive glargine insulin as ordered seeing his glucose levels. Which of the following would be the most appropriate response by the resident?",
+    "answer": "Yes, glargine insulin is a long-acting insulin and should still be given to control his blood glucose over the next 24 hours.",
+    "options": {
+      "A": "Yes, glargine insulin is a long-acting insulin and should still be given to control his blood glucose over the next 24 hours.",
+      "B": "No, glargine insulin should not be given during an episode of hypoglycemia as it will further lower blood glucose.",
+      "C": "No, glargine insulin was probably ordered in error as it is not recommended in type 2 diabetes.",
+      "D": "No, due to his S. aureus infection he is more likely to have low blood glucose and glargine insulin should be held until he has recovered.",
+      "E": "No, glargine insulin should be stopped and replaced with lispro insulin until his blood glucose increases."
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "7594": {
+    "question": "A 34-year-old gravida 5, para 4 presents to the physician for prenatal care at 32 weeks of pregnancy. She comes from a rural region of Ethiopia and did not have appropriate prenatal care during previous pregnancies. She has no complaints of swelling, contractions, loss of fluid, or bleeding from the vagina. During her current pregnancy, she has received proper care and has completed the required laboratory and instrumental tests, which did not show any pathology. Her blood pressure is 130/70 mm Hg, heart rate is 77/min, respiratory rate is 15/min, and temperature is 36.6°C (97.8°F). Her examination is consistent with a normal 32-weeks’ gestation. The patient tells the physician that she is going to deliver her child at home, without any medical aid. The physician inquires about her tetanus vaccination status. The patient reports that she had tetanus 1 year after her first delivery at the age of 16, and it was managed appropriately. She had no tetanus vaccinations since then. Which of the following statements is true?",
+    "answer": "The patient should receive at least 2 doses of tetanus toxoid within the 4-week interval to ensure that she and her baby will both have immunity against tetanus.",
+    "options": {
+      "A": "The patient does not need vaccination because she has developed natural immunity against tetanus and will pass it to her baby.",
+      "B": "The patient is protected against tetanus due to her past medical history, so only the child is at risk of developing tetanus after an out-of-hospital delivery.",
+      "C": "The patient should receive at least 2 doses of tetanus toxoid within the 4-week interval to ensure that she and her baby will both have immunity against tetanus.",
+      "D": "The antibodies from tetanus immune globulin vaccine, if given to a pregnant woman, would not cross the placental barrier.",
+      "E": "Even if the patient receives appropriate tetanus vaccination, it will be necessary to administer toxoid to the newborn."
+    },
+    "meta_info": "step1",
+    "answer_idx": "C"
+  },
+  "8448": {
+    "question": "A 36-year-old woman comes to the physician because of a 4-day history of fever, malaise, chills, and a cough productive of moderate amounts of yellow-colored sputum. Over the past 2 days, she has also had right-sided chest pain that is exacerbated by deep inspiration. Four months ago, she was diagnosed with a urinary tract infection and was treated with trimethoprim/sulfamethoxazole. She appears pale. Her temperature is 38.8°C (101.8°F), pulse is 92/min, respirations are 20/min, and blood pressure is 128/74 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 99%. Examination shows pale conjunctivae. Crackles are heard at the right lung base. Cardiac examination shows no abnormalities. Laboratory studies show:\nHemoglobin 12.6 g/dL\nLeukocyte count 13,300/mm3\nPlatelet count 230,000/mm3\nSerum\nNa+ 137 mEq/L\nCl- 104 mEq/L\nK+ 3.9 mEq/L\nUrea nitrogen 16 mg/dL\nGlucose 89 mg/dL\nCreatinine 0.8 mg/dL\nAn x-ray of the chest shows an infiltrate at the right lung base. Which of the following is the most appropriate next step in management?\"",
+    "answer": "Outpatient treatment with oral doxycycline",
+    "options": {
+      "A": "Inpatient treatment with intravenous clindamycin",
+      "B": "Outpatient treatment with oral doxycycline",
+      "C": "Inpatient treatment with intravenous ceftriaxone and oral azithromycin",
+      "D": "Outpatient treatment with oral levofloxacin",
+      "E": "Inpatient treatment with intravenous cefepime and oral levofloxacin"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "5754": {
+    "question": "A 53-year-old diabetic man with cellulitis of the right lower limb presents to the emergency department because of symptoms of fever and chills. His pulse is 122/min, the blood pressure is 76/50 mm Hg, the respirations are 26/min, and the temperature is 40.0°C (104.0°F). His urine output is < 0.5mL/kg/h. He has warm peripheral extremities. The hemodynamic status of the patient is not improving in spite of the initiation of adequate fluid resuscitation. He is admitted to the hospital. Which of the following is the most likely laboratory profile?",
+    "answer": "WBC count: 16,670/mm3; low CVP; blood culture: gram-negative bacteremia; blood lactate level: 2.2 mmol/L",
+    "options": {
+      "A": "WBC count: 6670/mm3; low central venous pressure (CVP); blood culture: gram-positive bacteremia; blood lactate level: 1.1 mmol/L",
+      "B": "WBC count: 8880/mm3; high CVP; blood culture: gram-positive bacteremia; blood lactate level: 2.1 mmol/L",
+      "C": "WBC count: 11,670/mm3; low CVP; blood culture: gram-negative bacteremia; blood lactate level: 0.9 mmol/L",
+      "D": "WBC count: 16,670/mm3; low CVP; blood culture: gram-negative bacteremia; blood lactate level: 2.2 mmol/L",
+      "E": "WBC count: 1234/mm3; high CVP; blood culture: gram-negative bacteremia; blood lactate level: 1.6 mmol/L"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "D"
+  },
+  "4913": {
+    "question": "An 8-year-old boy is brought to the physician because of a 7-day history of a progressively worsening cough. The cough occurs in spells and consists of around 5–10 coughs in succession. After each spell he takes a deep, noisy breath. He has vomited occasionally following a bout of coughing. He had a runny nose for a week before the cough started. His immunization records are unavailable. He lives in an apartment with his father, mother, and his 2-week-old sister. The mother was given a Tdap vaccination 11 years ago. The father's vaccination records are unavailable. His temperature is 37.8°C (100.0°F). Examination shows no abnormalities. His leukocyte count is 42,000/mm3. Throat swab culture and PCR results are pending. Which of the following are the most appropriate recommendations for this family?",
+    "answer": "Administer oral azithromycin to all family members and Tdap vaccination to the father and mother",
+    "options": {
+      "A": "Administer oral azithromycin to the baby and father and Tdap vaccination to the father",
+      "B": "Administer oral azithromycin to all family members and Tdap vaccination to the father and mother",
+      "C": "Administer oral erythromycin to all family members and Tdap vaccination to the father",
+      "D": "Administer oral trimethoprim-sulfamethaxazole to the father and baby and Tdap vaccination to the father",
+      "E": "Administer oral azithromycin to all family members and Tdap vaccination to the father"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "2314": {
+    "question": "A 14-year-old girl is brought to the physician because of a 1-week history of fever, malaise, and chest pain. She describes the pain as 6 out of 10 in intensity and that it is more severe if she takes a deep breath. The pain is centrally located in the chest and does not radiate. Three weeks ago, she had a sore throat that resolved without treatment. She has no personal history of serious illness. She appears ill. Her temperature is 38.7°C (101.7°F). Examination shows several subcutaneous nodules on the elbows and wrist bilaterally. Breath sounds are normal. A soft early systolic murmur is heard best at the apex in the left lateral position. Abdominal examination is unremarkable. Laboratory studies show:\nHemoglobin 12.6 g/dL\nLeukocyte count 12,300/mm3\nPlatelet count 230,000/mm3\nErythrocyte sedimentation rate 40 mm/hr\nSerum\nAntistreptolysin O titer 327 U/mL (N < 200 U/mL)\nShe is treated with aspirin and penicillin and her symptoms resolve. An echocardiography of the heart done 14 days later shows no abnormalities. Which of the following is the most appropriate next step in management?\"",
+    "answer": "Intramuscular benzathine penicillin every 4 weeks for 10 years",
+    "options": {
+      "A": "Intramuscular benzathine penicillin every 4 weeks for 10 years",
+      "B": "Low-dose prednisone therapy for a month",
+      "C": "Intramuscular benzathine penicillin every 4 weeks until the age of 40",
+      "D": "Intramuscular benzathine penicillin every 4 weeks until the age of 21",
+      "E": "Intramuscular benzathine penicillin every 4 weeks for 5 years"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "7577": {
+    "question": "An investigator for a nationally representative health survey is evaluating the heights and weights of men and women aged 18–74 years in the United States. The investigator finds that for each sex, the distribution of heights is well-fitted by a normal distribution. The distribution of weight is not normally distributed. Results are shown:\nMean Standard deviation\nHeight (inches), men 69 0.1\nHeight (inches), women 64 0.1\nWeight (pounds), men 182 1.0\nWeight (pounds), women 154 1.0\nBased on these results, which of the following statements is most likely to be correct?\"",
+    "answer": "99.7% of heights in women are likely to fall between 63.7 and 64.3 inches.",
+    "options": {
+      "A": "68% of weights in women are likely to fall between 153 and 155 pounds.",
+      "B": "99.7% of heights in women are likely to fall between 63.7 and 64.3 inches.",
+      "C": "86% of heights in women are likely to fall between 63.9 and 64.1 inches.",
+      "D": "99.7% of heights in men are likely to fall between 68.8 and 69.2 inches.",
+      "E": "95% of heights in men are likely to fall between 68.85 and 69.15 inches."
+    },
+    "meta_info": "step1",
+    "answer_idx": "B"
+  },
+  "7848": {
+    "question": "A 59-year-old male with a history of aortic stenosis secondary to a bicuspid aortic valve treated with aortic valve replacement (AVR) presents with fever and shortness of breath. Patient states a gradual onset of symptoms approximately five days ago that have been getting steadily worse. He reports that he has trouble getting up and walking across a room before becoming short of breath. Past medical history is significant for a mechanical AVR three years ago for severe aortic stenosis, removal of a benign polyp last year following a colonoscopy, and a tooth extraction 2 weeks ago. Current medications are warfarin 5 mg orally daily, rosuvastatin 20 mg orally daily, and enalapril 10 mg orally twice daily. Vital signs are: temperature 39°C (102.2°F), blood pressure 100/65 mm Hg, pulse 96/min, respiration rate 18/min, and oxygen saturation 96% on room air. On physical exam, patient is alert but dyspneic. Cardiac exam is significant for a systolic ejection murmur that is loudest at the upper right sternal border and radiates to the carotids. Lungs are clear to auscultation. Abdomen is soft and nontender. Splenomegaly is present. Extremities are pale and cool to the touch. Laboratory tests are significant for:\nSodium  136 mEq/L\nPotassium 4.1 mEqL\nChloride  107 mEq/L\nBicarbonate 21 mEq/L\nBUN  13 mg/dL\nCreatinine  1.0 mg/dL\nGlucose (fasting)   75 mg/dL\n  Bilirubin, conjugated 0.3 mg/dL\nBilirubin, total   1.1 mg/dL\nAST (SGOT) 34 U/L\nALT (SGPT)      40 U/L\nAlkaline phosphatase 39 U/L\n  WBC            12,500/mm3\nRBC 5.15 x 106/mm3\nHematocrit  32.1%\nHemoglobin  13.0 g/dL\nPlatelet count    215,000/mm3\n  Troponin I (cTnI)  < 0.02 ng/mL\nINR   2.4\nChest X-ray shows no evidence of dehiscence or damage to the mechanical valve. ECG shows the following in the picture. Transesophageal echocardiography shows a possible large vegetation on one of the mechanical aortic valve leaflets.  Left ventricular ejection fraction is 45% due to outflow tract obstruction. High flow supplemental oxygen and fluid resuscitation are started. Blood cultures x 2 are drawn. What is the next best step in management?",
+    "answer": "Administer vancomycin 1 g IV every 12 hours, gentamicin 70 mg IV every 8 hours, and rifampin 300 mg IV every 8 hours",
+    "options": {
+      "A": "Stop warfarin immediately",
+      "B": "Administer vancomycin 1 g IV every 12 hours, gentamicin 70 mg IV every 8 hours, and rifampin 300 mg IV every 8 hours",
+      "C": "Emergency replacement of the mechanical aortic valve",
+      "D": "Administer dobutamine",
+      "E": "Intra-aortic balloon counterpulsation"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "566": {
+    "question": "A 59-year-old Caucasian man with a history of hypertension and emphysema is brought to the hospital because of progressive lethargy and confusion. The patient has been experiencing poor appetite for the past 3 months and has unintentionally lost 9 kg (19.8 lb). He was a smoker for 35 years and smoked 1 pack daily, but he quit 5 years ago. He takes lisinopril and bisoprolol for hypertension and has no allergies. On examination, the patient appears cachectic. He responds to stimulation but is lethargic and unable to provide any significant history. His blood pressure is 138/90 mm Hg, heart rate is 100/min, and his oxygen saturation on room air is 90%. His mucous membranes are moist, heart rate is regular without murmurs or an S3/S4 gallop, and his extremities are without any edema. His pulmonary examination shows mildly diminished breath sounds in the right lower lobe with bilateral wheezing. His laboratory values are shown:\nSodium 110 mEq/L\nPotassium 4.1 mEq/L\nChloride 102 mEq/L\nCO2 41 mm Hg\nBUN 18\nCreatinine 1.3 mg/dL\nGlucose 93 mg/dL\nUrine osmolality 600 mOsm/kg H2O\nPlasma osmolality 229 mEq/L\nWBC 8,200 cells/mL\nHgb 15.5 g/dL\nArterial blood gas pH 7.36/pCO2 60/pO2 285\nChest X-ray demonstrates a mass in the right upper lobe. What is the most appropriate treatment to address the patient’s hyponatremia?",
+    "answer": "3% saline at 35 mL/h",
+    "options": {
+      "A": "Dextrose with 20 mEq/L KCl at 250 mL/h",
+      "B": "0.9% saline at 125 mL/h",
+      "C": "0.45% saline at 100 mL/h",
+      "D": "3% saline at 35 mL/h",
+      "E": "0.45% saline with 30 mEq/L KCl at 100 mL/h"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "D"
+  },
+  "774": {
+    "question": "A 45-year-old homeless man is brought to the emergency department by the police. He was found intoxicated and passed out in a library. The patient has a past medical history of IV drug abuse, diabetes, alcohol abuse, and malnutrition. The patient has been hospitalized previously for multiple episodes of pancreatitis and sepsis. Currently, the patient is minimally responsive and only withdraws his extremities in response to painful stimuli. His temperature is 99.5°F (37.5°C), blood pressure is 90/48 mmHg, pulse is 150/min, respirations are 17/min, and oxygen saturation is 95% on room air. Physical exam is notable for tachycardia, a diastolic murmur at the left lower sternal border, and bilateral crackles on pulmonary exam. The patient is started on IV fluids, vancomycin, and piperacillin-tazobactam. Laboratory values are ordered as seen below.\n\nHemoglobin: 9 g/dL\nHematocrit: 30%\nLeukocyte count: 11,500/mm^3 with normal differential\nPlatelet count: 297,000/mm^3\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 4.0 mEq/L\nHCO3-: 28 mEq/L\nBUN: 33 mg/dL\nGlucose: 60 mg/dL\nCreatinine: 1.7 mg/dL\nCa2+: 9.7 mg/dL\nPT: 20 seconds\naPTT: 60 seconds\nAST: 1,010 U/L\nALT: 950 U/L\n\nThe patient is admitted to the medical floor. Five days later, the patient's neurological status has improved. His temperature is 99.5°F (37.5°C), blood pressure is 130/90 mmHg, pulse is 90/min, respirations are 11/min, and oxygen saturation is 99% on room air. Laboratory values are repeated as seen below.\n\nHemoglobin: 10 g/dL\nHematocrit: 32%\nLeukocyte count: 9,500/mm^3 with normal differential\nPlatelet count: 199,000/mm^3\n\nSerum:\nNa+: 140 mEq/L\nCl-: 102 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 24 mEq/L\nBUN: 31 mg/dL\nGlucose: 100 mg/dL\nCreatinine: 1.6 mg/dL\nCa2+: 9.0 mg/dL\nPT: 40 seconds\naPTT: 90 seconds\nAST: 150 U/L\nALT: 90 U/L\n\nWhich of the following is the best description of this patient’s current status?",
+    "answer": "Fulminant liver failure",
+    "options": {
+      "A": "Recovery from acute alcoholic liver disease",
+      "B": "Recovery from ischemic liver disease",
+      "C": "Recovery from acute renal failure",
+      "D": "Acute renal failure",
+      "E": "Fulminant liver failure"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "E"
+  },
+  "1006": {
+    "question": "A 71-year-old African American man with a history of prostatic adenocarcinoma presents to his oncologist with low back pain. He was diagnosed with non-resectable prostatic adenocarcinoma 4 years ago. He has undergone radiation therapy and chemotherapy. Over the past 3 months, he has developed constant mild non-radiating low back pain that occasionally wakes him up from sleep. He denies any recent falls or trauma. His past medical history is notable for hypertension, diabetes mellitus, coronary artery disease, and gout. He also has a history of thyroid cancer and underwent thyroidectomy 5 years ago. He takes lisinopril, metoprolol, aspirin, metformin, and allopurinol. He has a 40-pack-year smoking history and drinks alcohol socially. His temperature is 99.2°F (37.3°C), blood pressure is 150/85 mmHg, pulse is 84/min, and respirations are 18/min. On exam, he is well-appearing and in no acute distress. He is mildly tender to palpation along the lumbar vertebral spinous processes. A computerized tomography (CT) scan of the lumbar spine demonstrates a blastic and sclerotic lesion in the L5 vertebral body. Which of the following findings would most likely be seen on a serum study of this patient?",
+    "answer": "Normal calcium, normal phosphate, increased alkaline phosphatase, and normal parathyroid hormone",
+    "options": {
+      "A": "Decreased calcium, decreased phosphate, increased alkaline phosphatase, and increased parathyroid hormone",
+      "B": "Decreased calcium, increased phosphate, increased alkaline phosphatase, and increased parathyroid hormone",
+      "C": "Increased calcium, decreased phosphate, increased alkaline phosphatase, and increased parathyroid hormone",
+      "D": "Normal calcium, normal phosphate, increased alkaline phosphatase, and normal parathyroid hormone",
+      "E": "Normal calcium, normal phosphate, normal alkaline phosphatase, and normal parathyroid hormone"
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  },
+  "3175": {
+    "question": "A 22-year-old white woman comes to the physician because of a 6-month history of lower abdominal pain. She has also had multiple episodes of loose stools with blood during this period. She has had painful bowel movements for 1 month. Over the past year, she has had a 10-kg (22-lb) weight loss. She was treated for streptococcal pharyngitis last week. Her maternal grandfather died of colon cancer at the age of 52 years. She does not smoke. She drinks three to five beers on social occasions. She is 162 cm (5 ft 4 in) tall and weighs 52 kg (115-lb); BMI is 19.7 kg/m2. Her temperature is 37°C (98.6°F), pulse is 60/min, respirations are 13/min, and blood pressure is 110/70 mm Hg. Cardiopulmonary examination shows no abnormalities. The abdomen is soft and there is tenderness to palpation of the left lower quadrant. There is no guarding or rigidity. Rectal examination shows no masses. Laboratory studies show:\nHemoglobin 10.4 g/dL\nLeukocyte count 10,800/mm3\nPlatelet count 450,000/mm3\nSerum\nNa+ 138 mEq/L\nCl- 103 mEq/L\nK+ 4.9 mEq/L\nHCO3- 22 mEq/L\nUrea nitrogen 18 mg/dL\nCreatinine 0.6 mg/dL\nAntinuclear antibodies negative\nPerinuclear antineutrophil cytoplasmic antibodies positive\nAnti-Saccharomyces cerevisiae antibodies negative\nA colonoscopy is scheduled for the next day. Which of the following findings is most likely to be present on colonoscopy of this patient?\"",
+    "answer": "Confluent inflammation of the colonic mucosa with edema, fibrin-covered ulcers, and loss of vascular pattern",
+    "options": {
+      "A": "Pseudomembranes overlying regions of colonic inflammation",
+      "B": "Patchy inflammation of mucosa with cobblestone appearance and intervening areas of normal mucosa",
+      "C": "Confluent inflammation of the colonic mucosa with edema, fibrin-covered ulcers, and loss of vascular pattern",
+      "D": "Normal colonic mucosa",
+      "E": "Numerous polyps extending throughout the colon"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "5297": {
+    "question": "A 31-year-old man presents with a headache, myalgias, nausea, irritability, and forgetfulness. He developed these symptoms gradually over the past 3 months. He is a motor mechanic, and he changed his place of work 4 months ago. He smokes a half a pack of cigarettes per day. His vaccinations are up to date. On presentation, his vital signs are as follows: blood pressure is 145/70 mm Hg, heart rate is 94/min, respiratory rate is 17/min, and temperature is 36.8℃ (98.2℉). Physical examination reveals diffuse erythema of the face and chest and slight abdominal distention. Neurological examination shows symmetrical brisk upper and lower extremities reflexes. Blood tests show the following results:\npH 7.31\nPo2 301 mm Hg\nPco2 28 mm Hg\nNa+ 141 mEq/L\nK+ 4.3 mEq/L\nCl- 109 mEq/L\nHCO3- 17 mEq/L\nBase Excess -3 mEq/L\nCarboxyhemoglobin  38%\nMethemoglobin 1%\nSerum cyanide 0.35 mcg/mL (Reference range 0.5–1 mcg/mL)\nWhich of the following statements about the patient’s condition is true?",
+    "answer": "This patient’s symptoms are due to CO-induced inactivation of cytochrome oxidase and carboxyhemoglobin formation.",
+    "options": {
+      "A": "The patient’s symptoms are a consequence of his essential hypertension.",
+      "B": "Chronic cyanide exposure is the main cause of patient’s condition.",
+      "C": "This patient’s symptoms are due to CO-induced inactivation of cytochrome oxidase and carboxyhemoglobin formation.",
+      "D": "Viral infection should be suspected in this patient.",
+      "E": "This patient has disrupted glycolysis due to inactivation of fructose-bisphosphate aldolase."
+    },
+    "meta_info": "step1",
+    "answer_idx": "C"
+  },
+  "5558": {
+    "question": "Background: Beta-blockers reduce mortality in patients who have chronic heart failure, systolic dysfunction, and are on background treatment with diuretics and angiotensin-converting enzyme inhibitors. We aimed to compare the effects of carvedilol and metoprolol on clinical outcome.\nMethods: In a multicenter, double-blind, randomized parallel group trial, we assigned 1511 patients with chronic heart failure to treatment with carvedilol (target dose, 25 mg twice daily) and 1518 to metoprolol (target dose, 50 mg twice daily). The patients were required to have chronic heart failure (NYHA II-IV), the previous admission for a cardiovascular indication, an ejection fraction of < 0.35, and to have been treated optimally with diuretics and angiotensin-converting enzyme inhibitors unless not tolerated. The primary endpoints were all-cause mortality and the composite endpoint of all-cause mortality or all-cause admission. The analysis was done by intention-to-treat.\nFindings: The mean study duration was 58 months (SD, 6). The mean ejection fraction was 0.26 (SD, 0.07) and the mean age was 62 years (SD, 11). The all-cause mortality was 34% (512 of 1511) for carvedilol and 40% (600 of 1518) for metoprolol (hazard ratio, 0.83 [95% CI 0.74-0.93], p = 0.0017). The reduction in all-cause mortality was consistent across pre-defined subgroups. The incidence of side effects and drug withdrawals did not differ significantly between the 2 study groups.\nBased on the best interpretation of the results of this clinical trial, which of the following statements is most accurate?",
+    "answer": "Carvedilol demonstrated a significant improvement in all-cause mortality in patients with heart failure as compared to metoprolol.",
+    "options": {
+      "A": "There is no appreciable, statistically significant difference in overall mortality between the 2 treatment arms.",
+      "B": "Carvedilol demonstrated a significant improvement in all-cause mortality in patients with heart failure as compared to metoprolol.",
+      "C": "Metoprolol demonstrated a significant improvement in all-cause mortality in patients with heart failure compared to carvedilol.",
+      "D": "The study was underpowered and unable to arrive at a statistically significant conclusion.",
+      "E": "The results are likely biased due to trial design, and therefore non-generalizable."
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "2853": {
+    "question": "A 1-year-old boy is brought to his pediatrician for a follow-up appointment. He was recently diagnosed with failure to thrive and developmental delay. His weight is 7 kg (15.4 lb), height is 61 cm (24 in), and head circumference is 42 cm (16.5 in). The patient’s father had a younger sister who suffered from mental and physical delay and died at a very young age. The patient was able to raise his head at the age of 7 months and began to sit alone only recently. He babbles, coos, and smiles to other people. On presentation, his blood pressure is 75/40 mm Hg, heart rate is 147/min, respiratory rate is 28/min, and temperature is 36.4°C (97.5°F). He has a coarse face with small deep orbits, proptotic eyes, big lips, and gingival hyperplasia. His skin is pale with decreased elasticity. His lung and heart sounds are normal. Abdominal examination reveals diminished anterior abdominal wall muscle tone and hepatomegaly. Muscle tone is increased in all groups of muscles on both upper and lower extremities. The physician becomes concerned and performs testing for the suspected hereditary disease. A blood test shows increased lysosomal enzyme concentration in the serum and decreased N-acetylglucosamine-1-phosphotransferase (GlcNAc phosphotransferase) activity within the leukocytes. Which of the statements listed below describes the mechanism of the patient’s condition?",
+    "answer": "The lysosomal enzymes are secreted from the cells instead of being targeted to lysosomes because of lack of mannose phosphorylation on N-linked glycoproteins.",
+    "options": {
+      "A": "The patient’s symptoms are due to dysfunctional metabolism of sphingomyelin, which accumulates within the lysosomes.",
+      "B": "There is impaired hydrolysis of GM2-ganglioside, which accumulates in the cytoplasm.",
+      "C": "The lysosomal enzymes are secreted from the cells instead of being targeted to lysosomes because of lack of mannose phosphorylation on N-linked glycoproteins.",
+      "D": "Due to enzyme deficiency, glycogen is extensively accumulated within the hepatocytes.",
+      "E": "The symptoms result from defective glycolysis, which results in a total energy deficiency."
+    },
+    "meta_info": "step1",
+    "answer_idx": "C"
+  },
+  "2107": {
+    "question": "A 4-year-old girl is brought to the physician with a 3-month history of progressive intermittent pain and swelling involving both knees, right ankle, and right wrist. The patient has been undergoing treatment with acetaminophen and ice packs, both of which relieved her symptoms. The affected joints feel \"stuck” and are difficult to move immediately upon waking up in the morning. However, the patient can move her joints freely after a few minutes. She also complains of occasional mild eye pain that resolves spontaneously. Five months ago, she was diagnosed with an upper respiratory tract infection that resolved without treatment. Vital signs are within normal limits. Physical examination shows swollen and erythematous joints, which are tender to touch. Slit-lamp examination shows an anterior chamber flare with signs of iris inflammation bilaterally. Laboratory studies show:\nBlood parameters\nHemoglobin 12.6 g/dL\nLeukocyte count 8,000/mm3\nSegmented neutrophils 76%\nEosinophils 1%\nLymphocytes 20%\nMonocytes 3%\nPlatelet count 360,000/mm3\nErythrocyte sedimentation rate 36 mm/hr\nSerum parameters\nAntinuclear antibodies 1:320\nRheumatoid factor negative\nWhich of the following is the most likely diagnosis?",
+    "answer": "Oligoarticular juvenile idiopathic arthritis",
+    "options": {
+      "A": "Acute lymphocytic leukemia",
+      "B": "Enthesitis-related arthritis",
+      "C": "Oligoarticular juvenile idiopathic arthritis",
+      "D": "Postinfectious arthritis",
+      "E": "Seronegative polyarticular juvenile idiopathic arthritis"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "8615": {
+    "question": "A 53-year-old woman visits her physician with complaints of shortness of breath and fatigue over the last few weeks. Her past medical history includes hypertension diagnosed 20 years ago. She takes hydrochlorothiazide and losartan daily. Her mother died at the age of 54 from a stroke, and both of her grandparents suffered from cardiovascular disease. She has a 13 pack-year history of smoking and drinks alcohol occasionally. Her blood pressure is 150/120 mm Hg, pulse is 95/min, respiratory rate is 22/min, and temperature is 36.7°C (98.1°F). On physical examination, she has bibasilar rales, distended jugular veins, and pitting edema in both lower extremities. Her pulse is irregularly irregular and her apical pulse is displaced laterally. Fundoscopy reveals ‘copper wiring’ and ‘cotton wool spots’. Which of the following echocardiographic findings will most likely be found in this patient?",
+    "answer": "Ejection fraction: 40% with increased left ventricular wall thickness",
+    "options": {
+      "A": "Ejection fraction: 40% with increased left ventricular wall thickness",
+      "B": "Ejection fraction: 60% with normal left ventricular wall thickness",
+      "C": "Ejection fraction: 80% with regurgitant aortic valve",
+      "D": "Ejection fraction: 55% with dilated chambers and thin walls",
+      "E": "Ejection fraction: 65% with rapid early diastolic filling and slow late diastolic filling"
+    },
+    "meta_info": "step1",
+    "answer_idx": "A"
+  },
+  "9385": {
+    "question": "A 13-year-old boy presents to the pediatrician with yellow discoloration of the sclerae since yesterday, and dark-colored urine for 2 days. A detailed history is taken and reveals that he had a cough, cold, and fever the week before the onset of the current symptoms, and was treated with over-the-counter medications. He reports an improvement in his upper respiratory symptoms but has been experiencing fatigue, nausea, and poor appetite since then. There is no past history of recurrent nausea, vomiting, jaundice or abdominal pain, and he has not received any blood transfusion. In addition, he frequently eats at a roadside restaurant near his school. His growth and development are normal for his age and sex. The temperature is 37.9°C (100.2°F), pulse is 96/min, blood pressure is 110/70 mm Hg, and the respiratory rate is 22/min. The physical examination shows icterus. The examination of the abdomen reveals tender hepatomegaly with the liver having a firm, sharp, and smooth edge. The laboratory test results are as follows:\nHemoglobin 14.2 g/dL\nWBC (white blood cell) 10,500/mm3\nDifferential leukocyte count   \nSegmented neutrophils 56%\nBands 4%\nLymphocytes 35%\nEosinophils 2%\nBasophils 0%\nMonocytes 3%\nPlatelet count 270,000/mm3\nSerum total bilirubin 8.4 mg/dL\nSerum direct bilirubin 7.8 mg/dL\nSerum alanine aminotransferase 350 U/L\nSerum alkaline phosphatase 95 U/L\nProthrombin time 20 seconds\nWhich of the following laboratory tests is most likely used to diagnose the condition of this patient?",
+    "answer": "Serum anti-HAV IgM antibody",
+    "options": {
+      "A": "Serum anti-HAV IgM antibody",
+      "B": "Plasma tyrosine and methionine",
+      "C": "Urine for reducing substances",
+      "D": "Quantitative assay for glucose-6-phosphate dehydrogenase (G6PD) activity",
+      "E": "Percutaneous liver biopsy"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "3213": {
+    "question": "A 62-year-old woman is brought to the emergency department of a busy suburban hospital because of a 1-week history of nausea and vomiting. She also has had intermittent fevers and headaches during the past 5 weeks. She does not have a stiff neck or sensitivity to light. She appears tired. Her temperature is 37°C (98.6°F), pulse is 70/min, respirations are 15/min, and blood pressure is 135/85 mm Hg. She is alert and oriented to person, place, and time. Examination shows no abnormalities. A lumbar puncture is performed, and cerebrospinal fluid (CSF) is collected for analysis. On the way to the laboratory, the physician loses the CSF specimens. The physician decides that a repeat lumbar puncture should be performed. Before giving consent for the second procedure, the patient asks what the results are from the specimens obtained earlier. Which of the following responses by the physician is the most appropriate?",
+    "answer": "\"\"\"I was unable to obtain results from the earlier tests because I misplaced the specimens. I sincerely apologize for the mistake.\"\"\"",
+    "options": {
+      "A": "\"\"\"I sincerely apologize; I misplaced the specimens. Thankfully, this is not a big issue because I can easily obtain more fluid.\"\"\"",
+      "B": "\"\"\"I was unable to obtain results from the earlier tests because I misplaced the specimens. I sincerely apologize for the mistake.\"\"\"",
+      "C": "\"\"\"I was not able to get the answers we needed from the first set of tests, so we need to repeat them.\"\"\"",
+      "D": "\"\"\"Unfortunately, I was not able to get enough fluid in the specimens to perform the tests.\"\"\"",
+      "E": "\"\"\"I sincerely apologize; the lab seems to have lost the specimens I obtained earlier.\"\"\""
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "3002": {
+    "question": "A 4-year-old girl is brought to the physician for a well-child examination. She has been healthy apart from an episode of bronchiolitis as an infant. Her 6-year-old sister recently underwent surgery for ventricular septal defect closure. She is at the 60th percentile for height and weight. Her mother is concerned about the possibility of the patient having a cardiovascular anomaly. Which of the following is most likely to indicate a benign heart murmur in this child?",
+    "answer": "A grade 2/6 continuous murmur heard at the right supraclavicular region",
+    "options": {
+      "A": "A grade 3/6 systolic ejection murmur heard along the left lower sternal border that increases on valsalva",
+      "B": "A grade 4/6 midsystolic murmur at the right upper sternal border that increases on rapid squatting",
+      "C": "A grade 2/6 continuous murmur heard at the right supraclavicular region",
+      "D": "A grade 4/6 holosytolic murmur heard along the left lower sternal border that increases on hand grip",
+      "E": "A grade 3/6 holosytolic murmur at the apex that increases on hand grip"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "1859": {
+    "question": "A 40-year-old woman comes to the emergency department because of difficulty walking for the past 4 hours. She first noticed her symptoms after getting up this morning and her foot dragging while walking. She feels tired. She has a history of chronic sinusitis. Six months ago, she was diagnosed with asthma. Current medications include an albuterol inhaler and inhaled corticosteroids. Her temperature is 38.9°C (102°F), pulse is 80/min, and her blood pressure is 140/90 mm Hg. Auscultation of her lungs shows diffuse wheezing over bilateral lung fields. Physical examination shows tender subcutaneous nodules on the extensor surfaces of the elbows. There are palpable, non-blanching erythematous lesions on both shins. Dorsiflexion of the right foot is impaired. Sensation to pinprick, light touch, and vibration is decreased over the ulnar aspect of the left forearm. Laboratory studies show:\nHemoglobin 11.3 g/dL\nLeukocyte count 24,500\nSegmented neutrophils 48%\nEosinophils 29%\nLymphocytes 19%\nMonocytes 4%\nPlatelet count 290,000/mm3\nSerum\nUrea nitrogen 32 mg/dL\nCreatinine 1.85 mg/dL\nUrine\nBlood 2+\nProtein 3+\nWhich of the following is the most likely diagnosis in this patient?\"",
+    "answer": "Eosinophilic granulomatosis with polyangiitis\n\"",
+    "options": {
+      "A": "Granulomatosis with polyangiitis",
+      "B": "Goodpasture syndrome",
+      "C": "Henoch-Schönlein purpura",
+      "D": "Excessive glucocorticoid use",
+      "E": "Eosinophilic granulomatosis with polyangiitis\n\""
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "E"
+  },
+  "2261": {
+    "question": "A 65-year-old woman, with end-stage renal disease (ESRD) on hemodialysis, presents with pain, swelling and discoloration of her right leg and foot. She says that she started twice-weekly hemodialysis 2 weeks ago and has had no issues until 1 week ago when she noticed a warm, painful swelling of the back of her right leg and right foot after finishing her dialysis session. Over the week, she says these symptoms have steadily worsened and, in the last few days, her right foot has become discolored. Past medical history is significant for ESRD secondary to long-standing hypertension. Current medications are verapamil 200 mg orally daily and unfractionated heparin that is given during hemodialysis. Her vital signs include: temperature 37.0°C (98.6°F), blood pressure 145/75 mm Hg, pulse 88/min, respirations 15/min, and oxygen saturation 99% on room air. On physical examination, the patient is alert and cooperative. The cardiac exam is normal. Lungs are clear to auscultation. The abdomen is soft and nontender with no hepatosplenomegaly. The right calf is swollen, warm, and erythematous. Physical findings of the patient’s right foot are shown in the exhibit. Laboratory findings are significant for the following:\nSodium 141 mEq/L\nPotassium 4.9 mEq/L\nChloride 104 mEq/L\nBicarbonate 25 mEq/L\nBUN 32 mg/dL\nCreatinine 3.1 mg/dL\nGlucose (fasting) 75 mg/dL\n  Bilirubin, conjugated 0.5 mg/dL       \nBilirubin, total 1.0 mg/dL\nAST (SGOT) 22 U/L       \nALT (SGPT) 23 U/L       \nAlkaline phosphatase 56 U/L\n  Bleeding time 19 min      \nProthrombin time (PT) 11 s   \nPartial thromboplastin time (PTT) 30 s\n        WBC 8,500/mm3       \nRBC 4.10 x 106/mm3\nHematocrit 41.5%\nHemoglobin 13.5 g/dL       \nPlatelet count 100,000/mm3 (previously 200,000/mm3)\nWhich of the following is the next best diagnostic step in this patient?",
+    "answer": "Heparin/PF4 enzyme-linked immunosorbent assay (ELISA)",
+    "options": {
+      "A": "Heparin/PF4 enzyme-linked immunosorbent assay (ELISA)",
+      "B": "Functional assay for factor VIII",
+      "C": "Serotonin release assay",
+      "D": "Peripheral blood smear",
+      "E": "Flow cytometry for CD55"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "5005": {
+    "question": "A 5-year-old boy presents to his pediatrician with weakness. His father observed that his son seemed less energetic at daycare and kindergarten classes. He was becoming easily fatigued from mild play. His temperature is 98°F (37°C), blood pressure is 90/60 mmHg, pulse is 100/min, and respirations are 20/min. Physical exam reveals pale conjunctiva, poor skin turgor and capillary refill, and cervical and axillary lymphadenopathy with assorted bruises throughout his body. A complete blood count reveals the following:\n\nLeukocyte count: 3,000/mm^3\nSegmented neutrophils: 30%\nBands: 5%\nEosinophils: 5%\nBasophils: 10%\nLymphocytes: 40%\nMonocytes: 10%\n\nHemoglobin: 7.1 g/dL\nHematocrit: 22%\nPlatelet count: 50,000/mm^3\n\nThe most specific diagnostic assessment would most likely show which of the following?",
+    "answer": "Bone marrow biopsy with > 25% lymphoblasts",
+    "options": {
+      "A": "Bone marrow biopsy with > 25% lymphoblasts",
+      "B": "Flow cytometry with positive terminal deoxynucleotidyl transferase staining",
+      "C": "Fluorescence in situ hybridization analysis with 9:22 translocation",
+      "D": "Fluorescence in situ hybridization analysis with 12:21 translocation",
+      "E": "Peripheral blood smear with > 50% lymphoblasts"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "9526": {
+    "question": "An 83-year-old woman with a past medical history of poorly controlled diabetes, hyperlipidemia, hypertension, obesity, and recurrent urinary tract infections is brought to the emergency room by her husband due to confusion, generalized malaise and weakness, nausea, and mild lower abdominal pain. Her medications include metformin and glyburide, atorvastatin, lisinopril, and hydrochlorothiazide. At presentation, her oral temperature is 38.9°C (102.2°F), the pulse is 122/min, blood pressure is 93/40 mm Hg, and oxygen saturation is 96% on room air. On physical examination, she is breathing rapid shallow breaths but does not have any rales or crackles on pulmonary auscultation. No murmurs are heard on cardiac auscultation and femoral pulses are bounding. Her skin is warm, flushed, and dry to touch. There is trace bilateral pedal edema present. Her abdomen is soft and non-distended, but she has some involuntary guarding on palpation of the suprapubic region. ECG shows normal amplitude sinus tachycardia without evidence of ST-segment changes or T-wave inversions. Which of the following would most likely be the relative pulmonary artery catheterization measurements of pulmonary capillary wedge pressure (PCWP), mixed venous oxygen saturation (SaO2), calculated cardiac output (CO), and systemic vascular resistance (SVR) in this patient?",
+    "answer": "Decreased PCWP; slightly increased SaO2; increased CO; decreased SVR",
+    "options": {
+      "A": "Decreased PCWP; normal SaO2; decreased CO; and decreased SVR",
+      "B": "Decreased PCWP; decreased SaO2; decreased CO; increased SVR",
+      "C": "Normal PCWP; normal SaO2; increased CO; decreased SVR",
+      "D": "Decreased PCWP; slightly increased SaO2; increased CO; decreased SVR",
+      "E": "Increased PCWP; decreased SaO2; decreased CO; increased SVR"
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  },
+  "7839": {
+    "question": "A 40-year-old G1P0010 presents to the clinic with nausea and vomiting 8 weeks after a spontaneous abortion at 10 weeks gestation. She admits to heavy drinking (7–8 glasses of wine per day) for the last 20 years; however, after the pregnancy loss, she increased her drinking to 8–9 glasses per day. Hepatomegaly, right upper quadrant pain, and jaundice are noted on abdominal examination. The lungs are clear to auscultation with no abnormalities on chest X-ray. Liver function tests are obtained and a biopsy is performed. Which of the following findings is most likely to be true in her condition?",
+    "answer": "↑ NADH/NAD+; AST:ALT ≥ 2:1; ß-oxidation ↓; ß-hydroxybutyrate ↑; lactic acid ↑",
+    "options": {
+      "A": "↑ NADH/NAD+; AST:ALT ≥ 2:1; ß-oxidation ↓; ß-hydroxybutyrate ↑; lactic acid ↑",
+      "B": "↑ NAD+/NADH; ALT:AST ≥ 2:1; ß-oxidation ↑; ß-hydroxybutyrate, no change; lactic acid ↓",
+      "C": "↑ NADH/NAD+; ALT:AST ≥ 2:1; ß-oxidation ↓; ß-hydroxybutyrate ↓; lactic acid ↓",
+      "D": "↑ NAD+/NADH; AST:ALT ≥ 2:1; ß-oxidation ↑; ß-hydroxybutyrate ↓; lactic acid ↓",
+      "E": "↑ NADH/NAD+; ALT:AST ≥ 2:1; ß-oxidation ↓; ß-hydroxybutyrate ↓; lactic acid ↑"
+    },
+    "meta_info": "step1",
+    "answer_idx": "A"
+  },
+  "2986": {
+    "question": "An 1800-g (4.0-lb) male newborn is delivered to a 26-year-old woman, gravida 2, para 1, at 33 weeks' gestation. The Apgar scores are 7 at 1 minute and 8 at 5 minutes. The pregnancy was complicated by iron deficiency anemia. The mother has no other history of serious illness. She has smoked one-half pack of cigarettes daily for the past 10 years. She does not drink alcohol. She has never used illicit drugs. Pregnancy and delivery of her first child were complicated by placenta previa. The mother has received all appropriate immunizations. It is most appropriate for the physician to recommend which of the following to the mother regarding her son's immunizations?",
+    "answer": "Give first dose of diphtheria and tetanus toxoids, acellular pertussis (DTaP) vaccine at 2 months of chronological age",
+    "options": {
+      "A": "Give first dose of hepatitis B vaccine at 3 months of chronological age",
+      "B": "Give first dose of influenza vaccine at 2 months of chronological age",
+      "C": "Give first dose of varicella vaccine at 2 months of chronological age",
+      "D": "Give first dose of Haemophilus influenza type b vaccine at 3 months of chronological age",
+      "E": "Give first dose of diphtheria and tetanus toxoids, acellular pertussis (DTaP) vaccine at 2 months of chronological age"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "E"
+  },
+  "5665": {
+    "question": "A 27-year-old woman presents with painful urination and malodorous urethral discharge. She states she has a single sexual partner and uses condoms for contraception. The patient's blood pressure is 115/80 mm Hg, the heart rate is 73/min, the respiratory rate is 14/min, and the temperature is 36.6℃ (97.9℉). Physical examination shows swelling and redness of the external urethral ostium. There is a yellowish, purulent discharge with an unpleasant odor. The swab culture grows N. gonorrhoeae. The doctor explains the diagnosis to the patient, and they discuss the importance of notifying her partner. The patient says she doesn't want her partner to know about her diagnosis and begs the doctor to not inform the health department. She is anxious that everybody will find out that she is infected and that her partner will leave her. She promises they will use barrier contraception while she is treated. Which of the following is the most appropriate course of action? ",
+    "answer": "Explain to the patient that gonorrhea is a mandatory reported disease.",
+    "options": {
+      "A": "Let the patient do as she suggests, because it is her right not to disclose her diagnosis to anyone.",
+      "B": "Explain to the patient that gonorrhea is a mandatory reported disease.",
+      "C": "Refer to the medical ethics committee for consultation.",
+      "D": "Tell the patient that she is required to tell her partner and stress the consequences of untreated gonorrhea in her partner.",
+      "E": "Encourage her to tell her partner because it is a way to protect her partner from possible complications, and reassure her that the confidence will only be shared with her partner."
+    },
+    "meta_info": "step1",
+    "answer_idx": "B"
+  },
+  "7074": {
+    "question": "A 59-year-old man presents to the emergency department with a complaint of palpitations for the last 30 minutes. He denies chest pain, breathlessness, and loss of consciousness. The medical history is negative for hypertension or ischemic heart disease. On physical examination, the temperature is 36.9°C (98.4°F), the pulse rate is 146/min and irregular, the blood pressure is 118/80 mm Hg, and the respiratory rate is 15/min. A 12-lead electrocardiogram reveals an absence of normal P waves and the presence of saw tooth-appearing waves. The physician treats him with a single intravenous infusion of ibutilide under continuous electrographic monitoring, which successfully converts the abnormal rhythm to sinus rhythm. Which of the following mechanisms best explains the therapeutic action of this drug in this patient?",
+    "answer": "Prolongation of cardiac depolarization by blocking the potassium channels and activating the slow inward sodium current",
+    "options": {
+      "A": "Prolongation of action potential duration by blocking the rapid outward sodium current",
+      "B": "Prolongation of cardiac depolarization by blocking the potassium channels and activating the slow inward sodium current",
+      "C": "Slowing the rapid upstroke during phase 0 by blocking the calcium channels",
+      "D": "Prolongation of the atrial effective refractory period by blocking IACh and Ito currents",
+      "E": "Suppression of phase 4 upstroke in the myocardial fibers by slowly dissociating from sodium channels"
+    },
+    "meta_info": "step1",
+    "answer_idx": "B"
+  },
+  "9229": {
+    "question": "A 23-year-old man is brought to the emergency department by ambulance. The patient was found unconscious in his bedroom after a suicide attempt. The patient had cut his wrists using a kitchen knife. The patient is unresponsive and pale. His temperature is 96°F (35.6°C), blood pressure is 70/35 mmHg, pulse is 190/min, respirations are 19/min, and oxygen saturation is 92% on room air. Pressure is applied to his bilateral wrist lacerations. His Glasgow Coma Scale (GCS) is 7. A full trauma assessment is performed and reveals no other injuries. IV fluids are started as well as a rapid transfusion sequence. Norepinephrine is administered. Repeat vitals demonstrate that his blood pressure is 100/65 mmHg and pulse is 100/min. The patient is responsive and seems mildly confused. Resuscitation is continued and the patient's GCS improves to 15. Thirty minutes later, the patient's GCS is 11. His temperature is 103°F (39.4°C), blood pressure is 90/60 mmHg, pulse is 122/min, respirations are 22/min, and oxygen saturation is 99% on room air. The patient complains of flank pain. Laboratory values are ordered and demonstrate the following:\n\nHemoglobin: 9 g/dL\nHematocrit: 27%\nLeukocyte count: 10,500 cells/mm^3 with normal differential\nHaptoglobin: 11 mg/dL\nPlatelet count: 198,000/mm^3\n\nSerum:\nNa+: 139 mEq/L\nCl-: 101 mEq/L\nK+: 4.4 mEq/L\nHCO3-: 23 mEq/L\nBUN: 27 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.5 mg/dL\nCa2+: 10.0 mg/dL\nBilirubin: 3.2 mg/dL\nAST: 22 U/L\nALT: 15 U/L\n\nWhich of the following describes the most likely diagnosis?",
+    "answer": "Major blood group incompatibility",
+    "options": {
+      "A": "Non-cardiogenic acute lung injury",
+      "B": "Decreased IgA levels",
+      "C": "Major blood group incompatibility",
+      "D": "Minor blood group incompatibility",
+      "E": "Recipient antibody reaction against foreign leukocytes"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "10050": {
+    "question": "A 5-year-old boy is brought to the clinic for recurrent bedwetting. The child has an intellectual disability; thus, the mother is providing most of the history. She states that the child constantly drinks fluids and has a difficult time making it to the bathroom as often as he needs. Therefore, he sometimes wets himself during the day and at night. She has tried bedwetting alarms with no success. Review of systems is negative. His past medical history is unremarkable expect for moderate growth retardation. His temperature is 99.5°F (37.5°C), blood pressure is 80/54 mmHg, pulse is 90/min, respirations are 20/min, and oxygen saturation is 99% on room air. Routine laboratory tests and a 24 hour urine test are shown below.\n\nSerum:\nNa+: 138 mEq/L\nCl-: 90 mEq/L\nK+: 2.5 mEq/L\nHCO3-: 35 mEq/L \nBUN: 9 mg/dL \nGlucose: 98 mg/dL\nCreatinine: 1.0 mg/dL\nThyroid-stimulating hormone: 1.2 µU/mL\nCa2+: 9.1 mg/dL\nAST: 13 U/L\nALT: 10 U/L\npH: 7.49\n\nUrine:\nEpithelial cells: 5 cells\nGlucose: Negative\nWBC: 0/hpf\nBacterial: None\nProtein: 60 mg/24h (Normal: < 150 mg/24h)\nCalcium: 370 mg/24h (Normal: 100-300 mg/24h)\nOsmolality 1600 mOsmol/kg H2O (Normal: 50-1400 mOsmol/kg H2O)\n\nWhat is the most likely explanation for this patient’s findings?",
+    "answer": "Defect of Na+/K+/2Cl- cotransporter at the thick ascending loop of Henle",
+    "options": {
+      "A": "Defect of NaCl reabsorption at the distal collecting tube",
+      "B": "Defect of Na+/K+/2Cl- cotransporter at the thick ascending loop of Henle",
+      "C": "Generalized reabsorptive defect in the proximal collecting tube",
+      "D": "Hereditary deficiency of 11B-hydroxysteroid dehydrogenase",
+      "E": "Increased sodium reabsorption at the collecting tubules"
+    },
+    "meta_info": "step1",
+    "answer_idx": "B"
+  },
+  "8355": {
+    "question": "A 30-year-old woman presents to the emergency department in a state of confusion and disorientation that started this morning. She is accompanied by her husband who says that she has been unwell for about one week. She has been complaining of fatigue. Her husband says that this morning, she also complained that her urine was dark red in color and that there were some red spots over her legs. He did notice some changes in her level of consciousness that worsened over time and he decided to bring her in today. She does not have a significant medical history. Physical examination shows petechiae over her arms and legs. She is conscious but drowsy and disoriented and unable to answer the physician’s questions appropriately. Her temperature is 38.3°C (100.9°F), blood pressure is 160/100 mm Hg, pulse rate is 90/min, and respiratory rate is 20/min.\nLaboratory studies show:\nHemoglobin 10 g/dL\nLeukocyte count 9,000/mm3\nPlatelet count 30,000/mm3\nBleeding time 10 min\nProthrombin time 12 s\nActivated partial thromboplastin time 30 s\nD-dimer 0.4 mg/L (normal < 0.5 mg/L)\nSerum fibrinogen 350 mg/dL (normal 200–400 mg/dL)\nSerum bilirubin (indirect) 2.2 mg/dL\nSerum creatinine 1.5 mg/dL\nSerum LDH 1,010 U/L\nBased on her history, and her physical and laboratory findings, which of the following is the most likely pathophysiology for her presentation?",
+    "answer": "Decreased ADAMTS13 causing platelet adhesion and formation of microthrombi",
+    "options": {
+      "A": "Systemic activation of blood coagulation",
+      "B": "GPIIb/IIIa deficiency and failure of platelet aggregation",
+      "C": "E. coli-mediated endothelial damage and formation of microthrombi",
+      "D": "Decreased ADAMTS13 causing platelet adhesion and formation of microthrombi",
+      "E": "Antiplatelet antibodies"
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  },
+  "116": {
+    "question": "A 61-year-old man with a history of stage IIIa lung adenocarcinoma that has been treated with wedge resection and chemotherapy presents to the primary care clinic. He is largely asymptomatic, but he demonstrates a persistent microcytic anemia despite iron supplementation. Colonoscopy performed 3 years earlier was unremarkable. His past medical history is significant for diabetes mellitus type II, hypertension, acute lymphoblastic leukemia as a child, and hypercholesterolemia. He currently smokes 1 pack of cigarettes per day, drinks a glass of pinot grigio per day, and currently denies any illicit drug use. His vital signs include: temperature, 36.7°C (98.0°F); blood pressure, 126/74 mm Hg; heart rate, 87/min; and respiratory rate, 17/min. On physical examination, his pulses are bounding, complexion is pale, but breath sounds remain clear. Oxygen saturation was initially 91% on room air, with a new oxygen requirement of 2 L by nasal cannula. Which of the following lab values would suggest anemia of chronic disease as the underlying etiology?",
+    "answer": "Decreased serum iron and transferrin, increased ferritin, normal serum transferrin receptor",
+    "options": {
+      "A": "Decreased serum iron and transferrin, increased ferritin, normal serum transferrin receptor",
+      "B": "Decreased serum iron, increased transferrin, decreased ferritin, increased serum transferrin receptor",
+      "C": "Increased serum iron and transferrin, increased ferritin, normal serum transferrin receptor",
+      "D": "Decreased serum iron and transferrin, decreased ferritin, normal serum transferrin receptor",
+      "E": "Increased serum iron and transferrin, decreased ferritin, normal serum transferrin receptor"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "1936": {
+    "question": "A 48-year-old woman presents to the emergency department because of increasingly severe right upper abdominal pain, fever, and non-bloody vomiting for the last 5 hours. The pain is dull, intermittent, and radiates to her right shoulder. During the past 3 months, she has had recurring abdominal discomfort after meals. The patient underwent an appendectomy more than 30 years ago. She has hypertension, diabetes mellitus type 2, and chronic back pain. She takes bisoprolol, metformin, and ibuprofen daily. She is 171 cm (5 ft 6 in) tall and weighs 99 kg (218 lb). Her BMI is 35.2 kg/m2. She appears uncomfortable and is clutching her abdomen. Her temperature is 38.5°C (101.3°F), pulse is 108/min, and blood pressure is 150/82 mm Hg. Abdominal examination shows right upper quadrant abdominal tenderness and guarding. Upon deep palpation of the right upper quadrant, the patient pauses during inspiration. Laboratory studies show the following:\nBlood\nHemoglobin 13.1 g/dL\nLeukocyte count 10,900/mm3\nPlatelet count 236,000/mm3\nMean corpuscular volume 89/µm3\nSerum\nUrea nitrogen 28 mg/dL\nGlucose 89 mg/dL\nCreatinine 0.7 mg/dL\nBilirubin  \nTotal 1.6 mg/dL\nDirect 1.1 mg/dL\nAlkaline phosphatase 79 U/L\nAlanine aminotransferase (ALT, GPT) 28 U/L\nAspartate aminotransferase (AST, GOT) 32 U/L\nAn X-ray of the abdomen shows no abnormalities. Further evaluation of the patient is most likely to reveal which of the following?",
+    "answer": "History of multiple past pregnancies",
+    "options": {
+      "A": "Elevated carbohydrate-deficient transferrin",
+      "B": "Frequent, high-pitched bowel sounds on auscultation",
+      "C": "History of multiple past pregnancies",
+      "D": "History of recent travel to Indonesia",
+      "E": "History of recurrent sexually transmitted infections"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "4897": {
+    "question": "A 52-year-old man presents to his primary care physician to discuss laboratory results that were obtained during his annual checkup. He has no symptoms or concerns and denies changes in eating or urination patterns. Specifically, the physician ordered a panel of metabolic laboratory tests to look for signs of diabetes, hyperlipidemia, or other chronic disorders. A spot glucose check from a random blood sample showed a glucose level of 211 mg/dL. A hemoglobin A1c level was obtained at the same time that showed a level of 6.3%. A fasting blood glucose was obtained that showed a blood glucose level of 125 mg/dL. Finally, a 2-hour glucose level was obtained after an oral glucose tolerance test that showed a glucose level of 201 mg/dL. Which of the following statements is most accurate for this patient?",
+    "answer": "This patient has type 2 diabetes as diagnosed by his oral tolerance blood glucose",
+    "options": {
+      "A": "This patient does not have type 2 diabetes",
+      "B": "This patient has type 2 diabetes as diagnosed by his fasting blood glucose",
+      "C": "This patient has type 2 diabetes as diagnosed by his hemoglobin A1c",
+      "D": "This patient has type 2 diabetes as diagnosed by his oral tolerance blood glucose",
+      "E": "This patient has type 2 diabetes as diagnosed by his random blood glucose"
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  },
+  "6773": {
+    "question": "A 46-year-old man diagnosed with pancreatic adenocarcinoma is admitted with fever, malaise, and dyspnea. He says that symptoms onset 2 days ago and have progressively worsened. Past medical history is significant for multiple abdominal surgeries including stenting of the pancreatic duct. Current inpatient medications are rosuvastatin 20 mg orally daily, aspirin 81 mg orally daily, esomeprazole 20 mg orally daily, oxycontin 10 mg orally twice daily, lorazepam 2 mg orally 3 times daily PRN, and ondansetron 10 mg IV. On admission, his vital signs include blood pressure 105/75 mm Hg, respirations 22/min, pulse 90/min, and temperature 37.0°C (98.6°F). On his second day after admission, the patient acutely becomes obtunded. Repeat vital signs show blood pressure 85/55 mm Hg, respirations 32/min, pulse 115/min. Physical examination reveals multiple ecchymoses on the trunk and extremities and active bleeding from all IV and venipuncture sites. There is also significant erythema and swelling of the posterior aspect of the left leg. Laboratory findings are significant for thrombocytopenia, prolonged PT and PTT, and an elevated D-dimer. Blood cultures are pending. Which of the following is most likely responsible for this patient’s current condition?",
+    "answer": "Disseminated intravascular coagulation",
+    "options": {
+      "A": "Antiphospholipid syndrome",
+      "B": "Disseminated intravascular coagulation",
+      "C": "Factor VIII inhibitor",
+      "D": "von Willebrand disease",
+      "E": "Vitamin K deficiency"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "7069": {
+    "question": "An investigator conducts a case-control study to evaluate the relationship between benzodiazepine use among the elderly population (older than 65 years of age) that resides in assisted-living facilities and the risk of developing Alzheimer dementia. Three hundred patients with Alzheimer dementia are recruited from assisted-living facilities throughout the New York City metropolitan area, and their rates of benzodiazepine use are compared to 300 controls. Which of the following describes a patient who would be appropriate for the study's control group?",
+    "answer": "A 86-year-old man with well-controlled hypertension and mild benign prostate hyperplasia who lives in an assisted-living facility",
+    "options": {
+      "A": "An 80-year-old man with well-controlled hypertension and mild benign prostate hyperplasia who lives in an independent-living community",
+      "B": "A 64-year-old man with well-controlled hypertension and mild benign prostate hyperplasia who lives in an assisted-living facility",
+      "C": "A 73-year-old woman with coronary artery disease who was recently discharged to an assisted-living facility from the hospital after a middle cerebral artery stroke",
+      "D": "A 86-year-old man with well-controlled hypertension and mild benign prostate hyperplasia who lives in an assisted-living facility",
+      "E": "A 68-year-old man with hypercholesterolemia, mild benign prostate hyperplasia, and poorly-controlled diabetes who is hospitalized for pneumonia"
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  },
+  "60": {
+    "question": "A new screening test utilizing a telemedicine approach to diagnosing diabetic retinopathy has been implemented in a diabetes clinic. An ophthalmologist’s exam was also performed on all patients as the gold standard for diagnosis. In a pilot study of 500 patients, the screening test detected the presence of diabetic retinopathy in 250 patients. Ophthalmologist exam confirmed a diagnosis of diabetic retinopathy in 200 patients who tested positive in the screening test, as well as 10 patients who tested negative in the screening test. What is the sensitivity, specificity, positive predictive value, and negative predictive value of the screening test?",
+    "answer": "Sensitivity = 95%, Specificity = 83%, PPV = 80%, NPV = 96%",
+    "options": {
+      "A": "Sensitivity = 83%, Specificity = 95%, PPV = 80%, NPV = 96%",
+      "B": "Sensitivity = 83%, Specificity = 95%, PPV = 96%, NPV = 80%",
+      "C": "Sensitivity = 95%, Specificity = 83%, PPV = 96%, NPV = 80%",
+      "D": "Sensitivity = 80%, Specificity = 95%, PPV = 96%, NPV = 83%",
+      "E": "Sensitivity = 95%, Specificity = 83%, PPV = 80%, NPV = 96%"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "E"
+  },
+  "4854": {
+    "question": "A 64-year-old woman presents to the physician’s office to find out the results of her recent abdominal CT. She had been complaining of fatigue, weight loss, and jaundice for 6 months prior to seeing the physician. The patient has a significant medical history of hypothyroidism, generalized anxiety disorder, and hyperlipidemia. She takes levothyroxine, sertraline, and atorvastatin. The vital signs are stable today. On physical examination, her skin shows slight jaundice, but no scleral icterus is present. The palpation of the abdomen reveals no tenderness, guarding, or masses. The CT results shows a 3 x 3 cm mass located at the head of the pancreas. Which of the following choices is most appropriate for delivering bad news to the patient?",
+    "answer": "Set aside an appropriate amount of time in your schedule, and ensure you will not have any interruptions as you explain the bad news to the patient",
+    "options": {
+      "A": "Set aside an appropriate amount of time in your schedule, and ensure you will not have any interruptions as you explain the bad news to the patient",
+      "B": "Ask that a spouse or close relative come to the appointment, explain to them the bad news, and see if they will tell the patient since they have a closer relationship",
+      "C": "Call the patient over the phone to break the bad news, and tell them they can make an office visit if they prefer",
+      "D": "Train one of the nursing staff employees on this matter, and delegate this duty as one of their job responsibilities",
+      "E": "Refer the patient to an oncologist without informing the patient of their cancer"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "7703": {
+    "question": "A 42-year-old woman comes to the physician for a routine health maintenance examination. She has generalized fatigue and has had difficulties doing her household duties for the past 3 months. She has eczema and gastroesophageal reflux disease. She has a history of using intravenous methamphetamine in her youth but has not used illicit drugs in 23 years. Her medications include topical clobetasol and pantoprazole. She is 160 cm (5 ft 3 in) tall and weighs 105 kg (231 lb); BMI is 42 kg/m2. Her temperature is 37°C (98.6°F), pulse is 95/min, and blood pressure is 145/90 mm Hg. The lungs are clear to auscultation. Cardiac examination shows no abnormalities. Pelvic examination shows a normal vagina and cervix. Laboratory studies show:\nHemoglobin 13.1 g/dL\nLeukocyte count 7,800/mm3\nPlatelet count 312,000/mm3\nSerum\nNa+ 141 mEq/L\nK+ 4.6 mEq/L\nCl- 98 mEq/L\nUrea nitrogen 12 mg/dL\nFasting glucose 110 mg/dL\nCreatinine 0.8 mg/dL\nTotal cholesterol 269 mg/dL\nHDL-cholesterol 55 mg/dL\nLDL-cholesterol 160 mg/dL\nTriglycerides 320 mg/dL\nUrinalysis is within normal limits. An x-ray of the chest shows no abnormalities. She has not lost any weight over the past year despite following supervised weight loss programs, including various diets and exercise regimens. Which of the following is the most appropriate next step in management of this patient?\"",
+    "answer": "Bariatric surgery",
+    "options": {
+      "A": "Liposuction",
+      "B": "Metformin and statin therapy and follow-up in 3 months",
+      "C": "Bariatric surgery",
+      "D": "Behavioral therapy",
+      "E": "Phentermine and topiramate therapy and follow-up in 3 months"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "2202": {
+    "question": "A 68-year-old man is brought to the emergency department because of fever, progressive weakness, and cough for the past five days. He experienced a similar episode 2 months ago, for which he was hospitalized for 10 days while visiting his son in Russia. He states that he has never fully recovered from that episode. He felt much better after being treated with antibiotics, but he still coughs often during meals. He sometimes also coughs up undigested food after eating. For the last 5 days, his coughing has become more frequent and productive of yellowish-green sputum. He takes hydrochlorothiazide for hypertension and pantoprazole for the retrosternal discomfort that he often experiences while eating. He has smoked half a pack of cigarettes daily for the last 30 years and drinks one shot of vodka every day. The patient appears thin. His temperature is 40.1°C (104.2°F), pulse is 118/min, respirations are 22/min, and blood pressure is 125/90 mm Hg. Auscultation of the lungs shows right basal crackles. There is dullness on percussion at the right lung base. The remainder of the physical examination shows no abnormalities. Laboratory studies show:\nHemoglobin 15.4 g/dL\nLeukocyte count 17,000/mm3\nPlatelet count 350,000/mm3\nNa+ 139 mEq/L\nK+\n4.6 mEq/L\nCl- 102 mEq/L\nHCO3- 25 mEq/L\nUrea Nitrogen 16 mg/dL\nCreatinine 1.3 mg/dL\nAn x-ray of the chest shows a right lower lobe infiltrate. Which of the following is the most likely explanation for this patient's symptoms?\"",
+    "answer": "Outpouching of the hypopharynx\n\"",
+    "options": {
+      "A": "Weak tone of the lower esophageal sphincter",
+      "B": "Formation of a tissue cavity containing necrotic debris",
+      "C": "Uncoordinated contractions of the esophagus",
+      "D": "Unrestricted growth of pneumocytes with invasion of the surrounding tissue",
+      "E": "Outpouching of the hypopharynx\n\""
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "E"
+  },
+  "5899": {
+    "question": "A 24-year-old man is brought to the emergency department after being involved in a motor vehicle accident as an unrestrained driver. He was initially found unconscious at the scene but, after a few minutes, he regained consciousness. He says he is having difficulty breathing and has right-sided pleuritic chest pain. A primary trauma survey reveals multiple bruises and lacerations on the anterior chest wall. His temperature is 36.8°C (98.2°F), blood pressure is 100/60 mm Hg, pulse is 110/min, and respiratory rate is 28/min. Physical examination reveals a penetrating injury just below the right nipple. Cardiac examination is significant for jugular venous distention. There is also an absence of breath sounds on the right with hyperresonance to percussion. A bedside chest radiograph reveals evidence of a collapsed right lung with depression of the right hemidiaphragm and tracheal deviation to the left. Which of the following is the most appropriate next step in the management of this patient?",
+    "answer": "Needle thoracostomy at the 2nd intercostal space, midclavicular line",
+    "options": {
+      "A": "Needle thoracostomy at the 5th intercostal space, midclavicular line",
+      "B": "Needle thoracostomy at the 2nd intercostal space, midclavicular line",
+      "C": "Tube thoracostomy at the 2nd intercostal space, midclavicular line",
+      "D": "Tube thoracostomy at the 5th intercostal space, midclavicular line",
+      "E": "Tube thoracostomy at the 5th intercostal space, anterior axillary line"
+    },
+    "meta_info": "step1",
+    "answer_idx": "B"
+  },
+  "498": {
+    "question": "A 61-year-old G4P3 presents with a 5-year history of involuntary urine loss on coughing, sneezing, and physical exertion. She denies urine leakage at night. She has been menopausal since 51 years of age. She is otherwise healthy and is not on any medications, including hormone replacement therapy. The weight is 78 kg (172 lb) and the height is 156 cm (5.1 ft). The vital signs are within normal limits. The physical examination shows no costovertebral angle tenderness. The neurologic examination is unremarkable. The gynecologic examination revealed pale and thin vulvar and vaginal mucosa. The external urethral opening appears normal; there is urine leakage when the patient is asked to cough. The Q-tip test is positive. The bimanual exam reveals painless bulging of the anterior vaginal wall. Which of the following findings are most likely to be revealed by cystometry?",
+    "answer": "Normal residual volume, no involuntary detrusor contractions",
+    "options": {
+      "A": "Normal residual volume, involuntary detrusor contractions on maximal bladder filling",
+      "B": "Increased residual volume, no involuntary detrusor contractions",
+      "C": "Normal residual volume, involuntary detrusor contractions on minimal bladder filling",
+      "D": "Increased residual volume, involuntary detrusor contractions on maximal bladder filling",
+      "E": "Normal residual volume, no involuntary detrusor contractions"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "E"
+  },
+  "4888": {
+    "question": "A 30-month-old toddler presents with his mother to the pediatrician for a scheduled follow-up. She is concerned that his appetite has been poor since the death of his father, approximately one year ago. She denies any history of vomiting, refusal of food, diarrhea, constipation, recurrent cough and colds, recurrent wheezing, fast breathing, recurrent fever, or recurrent infections. The boy was born at full term by vaginal delivery with an uneventful neonatal period and infancy. His vaccines are up to date. On physical examination, his vital signs are stable. His complete physical examination does not suggest a specific medical disorder or congenital abnormality. His detailed diagnostic evaluation, including complete blood counts, serum protein, liver function tests, and urinalysis are normal. The pediatrician reviews the patient’s growth chart.\nAt the age of 18 months he was at the 90th percentile for weight and 75th for height. After plotting his current growth parameters on the growth charts, the pediatrician suspects failure to thrive with psychosocial etiology. Based on which of the following findings on the growth charts did the pediatrician suspect the condition?",
+    "answer": "Present gender-specific weight for age between 75 and 50 percentile markers",
+    "options": {
+      "A": "Present gender-specific weight for age between 90 and 75 percentile markers",
+      "B": "Present gender-specific weight for age between 75 and 50 percentile markers",
+      "C": "Present gender-specific height for age between 90 and 75 percentile markers",
+      "D": "Present gender-specific height for age between 75 and 50 percentile markers",
+      "E": "Present gender-specific weight for height between 90 and 95 percentile markers"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "7911": {
+    "question": "A 54-year-old man comes to the emergency department because of abdominal distension for the past 3 weeks. He also complains of generalized abdominal discomfort associated with nausea and decreased appetite. He was discharged from the hospital 3 months ago after an inguinal hernia repair with no reported complications. He has a history of type 2 diabetes mellitus, congestive heart failure, and untreated hepatitis C. His current medications include aspirin, atorvastatin, metoprolol, lisinopril, and metformin. His father has a history of alcoholic liver disease. He has smoked one pack of cigarettes daily for 30 years but quit 5 years ago. He drinks 3–4 beers daily. He appears cachectic. His vital signs are within normal limits. Examination shows a distended abdomen and shifting dullness. There is no abdominal tenderness or palpable masses. There is a well-healed surgical scar in the right lower quadrant. Examination of the heart and lung shows no abnormalities. He has 1+ bilateral lower extremity nonpitting edema. Diagnostic paracentesis is performed. Laboratory studies show:\nHemoglobin 10 g/dL\nLeukocyte count 14,000/mm3\nPlatelet count 152,000/mm3\nSerum\nTotal protein 5.8 g/dL\nAlbumin 3.5 g/dL\nAST 18 U/L\nALT 19 U/L\nTotal bilirubin 0.8 mg/dL\nHbA1c 8.1%\nPeritoneal fluid analysis\nColor Cloudy\nCell count 550/mm3 with lymphocytic predominance\nTotal protein 3.5 g/dL\nAlbumin 2.6 g/dL\nGlucose 60 mg/dL\nTriglycerides 360 mg/dL\nPeritoneal fluid Gram stain is negative. Culture and cytology results are pending. Which of the following is the most likely cause of this patient's symptoms?\"",
+    "answer": "Lymphoma",
+    "options": {
+      "A": "Recent surgery",
+      "B": "Lymphoma",
+      "C": "Infection with gram-positive bacteria",
+      "D": "Nephrotic syndrome",
+      "E": "Acute decompensated heart failure"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "2834": {
+    "question": "A 74-year-old man returns to his physician to follow-up on laboratory studies obtained for anemia 2 weeks ago. He has no complaints. He has a 20-year history of hypertension and several years of knee osteoarthritis. He walks 2 miles a day. He does not smoke. He drinks alcohol moderately. He takes hydrochlorothiazide, losartan, and pain killers, including ibuprofen. The vital signs include: temperature 37.1°C (98.8°F), pulse 68/min, respiratory rate 12/min, and blood pressure 110/70 mm Hg. The physical examination shows no abnormalities. The laboratory studies show the following:\nLaboratory test\nHemoglobin 10 g/dL\nMean corpuscular volume 75 μm3\nLeukocyte count 5,000/mm3\nPlatelet count 350,000/mm3\nESR 18 mm/hr\nSerum\nFerritin 5 μg/L\nIron 30 μg/L\nTotal iron-binding capacity 500 μg/dL\nCalcium (Ca+) 9 mg/dL\nAlbumin 4 g/dL\nUrea nitrogen 14 mg/dL\nCreatinine 0.9 mg/dL\nMonoclonal protein on serum electrophoresis is 12 g/L (non-IgM). Clonal bone marrow plasma cells comprise 4% of the total number of cells. Skeletal survey with magnetic resonance imaging reveals no pathologic findings. In addition to iron deficiency anemia, which of the following diagnosis is most appropriate to consider?",
+    "answer": "Monoclonal gammopathy of undetermined significance",
+    "options": {
+      "A": "Monoclonal gammopathy of undetermined significance",
+      "B": "Smoldering (asymptomatic) multiple myeloma",
+      "C": "Solitary plasmacytoma",
+      "D": "Symptomatic multiple myeloma",
+      "E": "Waldenstrom’s macroglobulinemia"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "1723": {
+    "question": "A 50-year-old man presents with severe chest pain for a week. His pain increases with breathing and is localized to the right. He has tried over-the-counter medications at home, but they did not help. The patient has a 20-pack-year smoking history and currently smokes 2 pack of cigarettes daily, and he drinks 3 to 4 cans of beer daily before dinner. His temperature is 39.1°C (102.3°F), blood pressure is 127/85 mm Hg, pulse is 109/min, and respirations are 20/min. Respiratory examination shows dullness to percussion from the 7th rib inferiorly at the right midaxillary line, decreased vocal tactile fremitus, and diminished breath sounds in the same area. Chest radiograph is shown in the image. The patient is prepared for thoracocentesis. Which of the following locations would be the most appropriate for insertion of a chest tube?",
+    "answer": "Above the superior border of the 8th rib in the midaxillary line",
+    "options": {
+      "A": "Above the superior border of the 7th rib in the midclavicular line",
+      "B": "Above the superior border of the 5th rib in the midclavicular line",
+      "C": "Below the inferior border of the 5th rib in the midaxillary line",
+      "D": "Above the superior border of the 8th rib in the midaxillary line",
+      "E": "Below the inferior border of the 7th rib in the midaxillary line"
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  },
+  "3648": {
+    "question": "A 47-year-old man is brought to the emergency department by police. He was forcibly removed from a bar for lewd behavior. The patient smells of alcohol, and his speech is slurred and unintelligible. The patient has a past medical history of alcohol abuse, obesity, diabetes, and Wernicke encephalopathy. The patient's currently prescribed medications include insulin, metformin, disulfiram, atorvastatin, a multi-B-vitamin, and lisinopril; however, he is non-compliant with his medications. His temperature is 98.5°F (36.7°C), blood pressure is 150/97 mmHg, pulse is 100/min, respirations are 15/min, and oxygen saturation is 96% on room air. Physical exam is notable for a palpable liver edge 2 cm inferior to the rib cage and increased abdominal girth with a positive fluid wave. Laboratory values are ordered and return as below:\n\nHemoglobin: 10 g/dL\nHematocrit: 33%\nLeukocyte count: 7,500 cells/mm^3 with normal differential\nPlatelet count: 245,000/mm^3\n\nSerum:\nNa+: 136 mEq/L\nCl-: 102 mEq/L\nK+: 4.1 mEq/L\nHCO3-: 24 mEq/L\nBUN: 24 mg/dL\nGlucose: 157 mg/dL\nCreatinine: 1.5 mg/dL\nCa2+: 9.6 mg/dL\n\nWhich of the following are the most likely laboratory values that would be seen in this patient in terms of aspartate aminotransferase (AST), alanine aminotransferase (ALT) and gamma-glutamyl transferase (GGT) (in U/L)?",
+    "answer": "AST: 255, ALT: 130, GGT: 114",
+    "options": {
+      "A": "AST: 225, ALT: 245, GGT: 127",
+      "B": "AST: 255, ALT: 130, GGT: 114",
+      "C": "AST: 265, ALT: 205, GGT: 50",
+      "D": "AST: 425, ALT: 475, GGT: 95",
+      "E": "AST: 455, ALT: 410, GGT: 115"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "3844": {
+    "question": "A 55-year-old female comes to see her doctor for a rapidly enlarging abdomen and swelling of both legs. She was hospitalized 2 weeks ago for an upper gastrointestinal bleeding episode. On that occasion, her esophagogastroduodenoscopy showed grade 1 esophageal varices and a 1 cm clean-based antral ulcer. The patient was discharged on omeprazole. Review of symptoms shows that the patient is forgetful, does not sleep well, and is drowsy and fatigued during the day which prevents her from working full-time. She denies abdominal pain. The patient has a 10-year history of type 2 diabetes mellitus, hypertension, and hypercholesterolemia but no history of angina or coronary heart disease. She drank alcohol moderately heavy in her twenties and currently drinks less than 3 drinks per week and does not smoke. Her family history is unremarkable. On physical examination, her blood pressure is 132/82 mm Hg, pulse is 88/min, and her temperature is 37.0°C (98.6°F). She weighs 106.6 kg (235 lb) and her BMI is 33. She is alert, oriented to person, place, year, and month but not to the day. Her sclerae are nonicteric. Her pulmonary and cardiovascular exam are normal but her abdomen is distended with a fluid wave and mild tenderness to palpation. There is no hepatosplenomegaly. There is a 2+ edema to mid-calf and pedal pulses are barely palpable. Her neurological exam is without motor or sensory deficits but she demonstrates flapping tremor of her hands while asked to hold them in front of her for a few seconds and her skin exam shows a few spider telangiectasias on her face and upper chest. After an initial evaluation, lab tests were obtained:\nSerum sodium 133 mEq/L\nSerum potassium 3.8 mEq/L\nBUN 8 mg/dL\nSerum creatinine 1.0 mg/dL\nSerum albumin 2.5 mg/dL\nAspartate aminotransferase 68 IU/ml\nAlanine aminotransferase  46 IU/ml\nAlkaline phosphatase  130 IU/ml\nTotal bilirubin  1.8 mg/dL\n WBC count 4,200/mm3\nPlatelets 94,000/mm3\nHematocrit 35.5%\nProthrombin time (INR) 1.5\nA liver biopsy is performed and the results are pending. The hepatocytes causing her acute issue are predominantly located in which area of the hepatic lobule?\n ",
+    "answer": "The zone closest to the centrolobular vein",
+    "options": {
+      "A": "The zone where gluconeogenesis is predominant",
+      "B": "The zone receiving the most oxygenated blood from the hepatic artery",
+      "C": "The zone with little or no cytochrome P450 enzymes",
+      "D": "The zone closest to the centrolobular vein",
+      "E": "The zone involved in cholesterol synthesis"
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  },
+  "5309": {
+    "question": "A 35-year-old woman is brought to the emergency department 45 minutes after being rescued from a house fire. On arrival, she appears confused and has shortness of breath. The patient is 165 cm (5 ft 5 in) tall and weighs 55 kg (121 lb); BMI is 20 kg/m2. Her pulse is 125/min, respirations are 29/min, and blood pressure is 105/65 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 97%. Examination shows second and third-degree burns over the anterior surfaces of the chest and abdomen, and the anterior surface of the upper extremities. There is black debris in the mouth and nose. There are coarse breath sounds over the lung bases. Cardiac examination shows no murmurs, rubs, or gallop. Femoral and pedal pulses are palpable bilaterally. Which of the following is the most appropriate fluid regimen for this patient according to the Parkland formula?",
+    "answer": "Administer 6 liters of intravenous crystalloids over the next 24 hours",
+    "options": {
+      "A": "Administer 6 liters of intravenous crystalloids over the next 24 hours",
+      "B": "Administer 4 liters of intravenous colloids over the next 8 hours",
+      "C": "Administer 8 liters of intravenous colloids over the next 12 hours",
+      "D": "Administer 5 liters of intravenous crystalloids over the next 6 hours",
+      "E": "Administer 5 liters of intravenous colloids over the next 6 hours"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "6814": {
+    "question": "A 25-year-old man comes to the physician for severe back pain. He describes the pain as shooting and stabbing. On a 10-point scale, he rates the pain as a 9 to 10. The pain started after he lifted a heavy box at work; he works at a supermarket and recently switched from being a cashier to a storekeeper. The patient appears to be in severe distress. Vital signs are within normal limits. On physical examination, the spine is nontender without paravertebral muscle spasms. Range of motion is normal. A straight-leg raise test is negative. After the physical examination has been completed, the patient asks for a letter to his employer attesting to his inability to work as a storekeeper. Which of the following is the most appropriate response?",
+    "answer": "\"\"\"I understand that you are uncomfortable, but the findings do not match the severity of your symptoms. Let's talk about the recent changes at your job.\"\"\"",
+    "options": {
+      "A": "“Yes. Since work may worsen your condition, I would prefer that you stay home a few days. I will write a letter to your employer to explain the situation.”",
+      "B": "\"\"\"You say you are in severe pain. However, the physical examination findings do not suggest a physical problem that can be addressed with medications or surgery. I'd like to meet on a regular basis to see how you're doing.\"\"\"",
+      "C": "\"\"\"I understand that you are uncomfortable, but the findings do not match the severity of your symptoms. Let's talk about the recent changes at your job.\"\"\"",
+      "D": "\"\"\"The physical exam findings do not match your symptoms, which suggests a psychological problem. I would be happy to refer you to a mental health professional.\"\"\"",
+      "E": "\"\"\"The physical exam findings suggest a psychological rather than a physical problem. But there is a good chance that we can address it with cognitive-behavioral therapy.\"\"\""
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "6872": {
+    "question": "A 48-year-old woman comes to the emergency department because of increasingly severe right upper abdominal pain, fever, and nonbloody vomiting for 5 hours. The pain is dull and intermittent and radiates to her right shoulder. During the past 3 months, she had recurring abdominal discomfort after meals. She underwent an appendectomy at the age of 13 years. The patient has hypertension, type 2 diabetes mellitus, and chronic back pain. She takes bisoprolol, metformin, and ibuprofen daily. She is 171 cm (5 ft 6 in) tall and weighs 99 kg (218 lb); BMI is 35 kg/m2. She appears uncomfortable and is clutching her abdomen. Her temperature is 38.5°C (101.3°F), pulse is 108/min, and blood pressure is 150/82 mm Hg. Abdominal examination shows right upper quadrant abdominal tenderness and guarding. Upon deep palpation of the right upper quadrant, the patient pauses during inspiration. Laboratory studies show:\nHemoglobin 13.1 g/dL\nLeukocyte count 10,900/mm3\nPlatelet count 236,000/mm3\nMean corpuscular volume 89/μm3\nSerum\nUrea nitrogen 28 mg/dL\nGlucose 89 mg/dL\nCreatinine 0.7 mg/dL\nBilirubin\nTotal 1.6 mg/dL\nDirect 1.1 mg/dL\nAlkaline phosphatase 79 U/L\nAlanine aminotransferase (ALT, GPT) 28 U/L\nAspartate aminotransferase (AST, GOT) 32 U/L\nAn x-ray of the abdomen shows no abnormalities. Further evaluation of the patient is most likely to reveal which of the following?\"",
+    "answer": "History of multiple past pregnancies",
+    "options": {
+      "A": "History of multiple past pregnancies",
+      "B": "History of recurrent sexually transmitted infections",
+      "C": "Frequent, high-pitched bowel sounds on auscultation",
+      "D": "History of intravenous drug abuse",
+      "E": "Urine culture growing gram-negative rods"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  "10012": {
+    "question": "A 57-year-old woman returns to her primary care provider complaining of fever, skin rash, and flank pain. She had just visited her PCP 2 weeks ago complaining of a sore throat and was diagnosed with pharyngitis. She was then given a 10 day prescription for phenoxymethylpenicillin. Today she is on day 6 of her prescription. Her symptoms started yesterday. Past medical history is significant for type 2 diabetes mellitus, essential hypertension, and has gastroesophageal reflux disease. Her medications include metformin, captopril, hydrochlorothiazide, and pantoprazole and a multivitamin that she takes daily. Today her temperature is 38.0°C (100.4°F), the blood pressure is 147/95 mm Hg, and the pulse is 82/min. Physical examination shows a sparse maculopapular rash over her upper trunk. Laboratory results are shown:\nCBC with Diff\nLeukocyte count 9,500/mm3\nSegmented neutrophils 54%\nBands 4%\nEosinophils 8%\nBasophils 0.5%\nLymphocytes 30%\nMonocytes 4%\nBlood urea nitrogen 25 mg/dL\nSerum creatinine 2 mg/dL\nUrinalysis 27 white blood cells/ high powered field\n5 red blood cells/high powered field\nUrine culture No growth after 72 hours\nA urine cytospin with stained with Wright’s stain shows 4.5% eosinophils. Which of the following is the best initial step in the management of this patient condition?",
+    "answer": "Discontinue the triggering medication(s)",
+    "options": {
+      "A": "Short course of prednisolone",
+      "B": "Discontinue the triggering medication(s)",
+      "C": "Renal biopsy",
+      "D": "Supportive dialysis",
+      "E": "Empiric oral fluoroquinolones"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  "1618": {
+    "question": "A 10-month-old boy is admitted to the pediatric intensive care ward because of progressive dyspnea and fever. For the past 2 weeks, he was unsuccessfully treated for an upper respiratory tract infection with ampicillin. He has a history of neonatal sepsis, frequent respiratory tract infections since the age of 3 months, and recurrent otitis media. He was born full-term vaginally to a consanguineous couple from an uncomplicated pregnancy. He received routine immunizations until 6 months of age. The patient’s vital signs are as follows: blood pressure is 70/40 mm Hg, heart rate is 138/min, respiratory rate is 39/min, and temperature is 39.5℃ (103.1 ℉). Physical examination reveals cyanosis, nasal flare, intercostal retractions, and bilaterally decreased breath sounds with crackles heard over the lower lobes on auscultation. The chest X-ray confirms bilateral lower lobe pneumonia. The blood count shows the following findings:\nErythrocytes 4.1 x 106/mm3\nHgb 13 g/dL\nTotal leukocyte count  41,100/mm3\nNeutrophils 74%\nLymphocytes 14%\nEosinophils 2%\nMonocytes 10%\nBasophils 0%\nPlatelet count 210,000/mm3\nThe patient is diagnosed with bilateral community-acquired lower lobe pneumonia and prescribed antibiotics. An immunological workup is performed to assess the patient’s immunity:\nMeasurement Result Normal range\nAntibodies\nTotal serum IgG 22.0 mg/dL  231–1,411 mg/dL \nSerum IgA 59.3 mg/dL 0–83 mg/dL\nSerum IgM 111.9 mg/dL 0–145 mg/dL\nLymphocyte flow cytometry\nCD3+ cells 2.2% 60–85%\nCD19+ cells 95.1% 8–20%\nCD16/CD56+ cells  0.1% 3–30%\nWhich of the following procedures is the option of choice for the further management of this patient?",
+    "answer": "Bone marrow transplantation",
+    "options": {
+      "A": "Periodical prophylactic antibiotic administration",
+      "B": "Periodical intravenous immune globulin administration",
+      "C": "Thymectomy",
+      "D": "Bone marrow transplantation",
+      "E": "Chemotherapy"
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  },
+  "2328": {
+    "question": "Thirty minutes after delivery, a 3400-g (7.5-lb) female newborn develops cyanosis of her lips and oral mucosa. She was born at 36 weeks of gestation to a 30-year-old woman, gravida 1, para 0. Apgar scores are 7 and 8 at 1 and 5 minutes, respectively. Pregnancy was complicated by polyhydramnios. The patient's temperature is 37°C (98.6°F), pulse is 144/min, respirations are 52/min, and blood pressure is 70/40 mm Hg. Examination shows foaming and drooling at the mouth. Bilateral crackles are heard at the lung bases. There is a harsh 3/6 systolic murmur along the left sternal border. The abdomen is soft and mildly distended. There is an anterior ectopic anus. Insertion of a nasogastric tube is attempted. An x-ray of the chest and abdomen is shown. Which of the following is the most likely diagnosis?",
+    "answer": "Esophageal atresia with tracheoesophageal fistula to the distal esophageal segment",
+    "options": {
+      "A": "Esophageal atresia with tracheoesophageal fistula to the proximal esophageal segment",
+      "B": "H‑type tracheoesophageal fistula without esophageal atresia",
+      "C": "Esophageal atresia with tracheoesophageal fistula to the distal esophageal segment",
+      "D": "Esophageal atresia with tracheoesophageal fistula to the proximal and distal esophageal segments",
+      "E": "Esophageal atresia without tracheoesophageal fistula"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "8756": {
+    "question": "A 66-year-old man presents to your office for a regular checkup. His only current complaint is periodic difficulty falling asleep at night. He takes captopril and hydrochlorothiazide for hypertension, atorvastatin for hyperlipidemia, and aspirin for cardiovascular disease prevention. His past medical history is significant for tympanoplasty performed 8 years ago for tympanic membrane rupture after an episode of purulent otitis media and intussusception that required surgical intervention 10 years ago. He also had a severe anaphylactic reaction after his 2nd Tdap administration 3 years ago. His blood pressure is 145/90 mm Hg, heart rate is 88/min, respiratory rate is 12/min, and temperature is 36.4°C (97.5°F). Physical examination only reveals a laterally displaced point of maximum impulse. Blood analysis shows the following findings:\nSodium\n139 mEq/L (139 mmol/L)\nPotassium\n5.0 mEq/L (5.0 mmol/L)\nChloride\n100 mEq/L (100 mmol/L)\nBicarbonate\n22 mEq/L (22 mmol/L)\nAlbumin\n3.8 mg/dL (38 g/L)\nUrea nitrogen\n8 mg/dL (2.86 mmol/L)\nCreatinine\n2.1 mg/dL (0.185 mmol/l)\nUric acid\n5.8 mg/ dL (0.34 mmol/L)\nCalcium\n8.9 mg/ dL (2.22 mmol/L)\nGlucose\n106 mg/ dL (5.89 mmol/L)\nTotal cholesterol\n254 mg/dL (5.57 mmol/L)\nLow-density lipoprotein\n58 mg/dL (1.5 mmol/L)\nHigh-density lipoprotein\n77 mg/dL (2.0 mmol/L)\nTriglycerides\n159 mg/dL (1.8 mmol/L)\nThe patient is concerned about pneumococcal infection. He has never been vaccinated against pneumococcus, and he would like to get the appropriate vaccination. You advise him that he should not be vaccinated with PCV13 (pneumococcal conjugate vaccine) and should instead be administered PPSV23 (pneumococcal polysaccharide vaccine). Why is PCV13 contraindicated in this patient?",
+    "answer": "He had an allergic reaction to the Tdap vaccination.",
+    "options": {
+      "A": "It is contraindicated in patients over the age of 65 years.",
+      "B": "He has a history of intussusception.",
+      "C": "He had an allergic reaction to the Tdap vaccination.",
+      "D": "He takes aspirin.",
+      "E": "He has hyperlipidemia."
+    },
+    "meta_info": "step1",
+    "answer_idx": "C"
+  },
+  "2221": {
+    "question": "A 57-year-old man is rushed to the emergency department by ambulance after being found on the floor gasping for air with severe shortness of breath by his partner. Past medical history is significant for congestive heart failure, hypertension, and hyperlipidemia. He normally takes chlorthalidone, atorvastatin, metoprolol, and valsartan, but he recently lost his job and insurance and has not been able to afford his medication in 2 months. Upon arrival at the hospital, his blood pressure is 85/50 mm Hg, heart rate is 110/min, respiratory rate is 24/min, oxygen saturation 90% on 100% oxygen, and temperature is 37.7°C (99.9°F). On physical exam, he appears obese and can only answer questions in short gasps as he struggles to breathe. His heart rate is tachycardic with a mildly irregular rhythm and auscultation of his lungs reveal crackles in the lower lobes, bilaterally. Which of the following physiologic changes is currently seen in this patient?",
+    "answer": "↑ Plasma renin and angiotensin II activity, ↓ blood pressure, ↓ renal perfusion pressure, ↑ serum pH",
+    "options": {
+      "A": "↓ Plasma renin and angiotensin II activity, ↑ blood pressure, normal renal perfusion pressure, ↑ serum pH",
+      "B": "↑ Plasma renin and angiotensin II activity, ↑ blood pressure, normal renal perfusion pressure, ↓ serum pH",
+      "C": "Normal plasma renin and angiotensin II activity, ↓ blood pressure, ↓ renal perfusion pressure, ↓ serum pH",
+      "D": "↑ Plasma renin and angiotensin II activity, ↓ blood pressure, ↓ renal perfusion pressure, ↑ serum pH",
+      "E": "↑ Plasma renin and angiotensin II activity, ↑ blood pressure,↓ renal perfusion pressure, ↑ serum pH"
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  },
+  "7406": {
+    "question": "A 48-year-old man is brought to the emergency department by his wife because of a 3-day history of increasing confusion and lethargy. He complains of decreased urine output and abdominal pain for the past month. Two months ago, he was hospitalized for pyelonephritis and treated with ceftriaxone. He has a history of chronic hepatitis C. He does not take any medications. He appears pale and irritable. His temperature is 37°C (98.6°F), pulse is 90/min, and blood pressure is 98/60 mm Hg. On mental status examination, he is oriented to person but not to time or place. Physical examination shows scleral icterus and jaundice. There is 2+ pitting edema of the lower extremities. The abdomen is distended with a positive fluid wave. Laboratory studies show:\nHemoglobin 10.1 g/dL\nLeukocyte count 4300/mm3\nPlatelet count 89,000/mm3\nProthrombin time 19 sec\nSerum\nUrea nitrogen 71 mg/dL\nGlucose 99 mg/dL\nCreatinine 3.5 mg/dL\nALT 137 mg/dL\nAST 154 mg/dL\nUrinalysis shows no abnormalities. The FeNa is < 1%. Ultrasound of the kidneys is unremarkable. Intravenous fluids are administered for 36 hours but do not improve urine output. Which of the following is the most likely cause of the kidney dysfunction in this patient?\"",
+    "answer": "Decreased renal perfusion",
+    "options": {
+      "A": "Renal interstitial inflammation",
+      "B": "Renal vein thrombosis",
+      "C": "Decreased renal perfusion",
+      "D": "Renal tubular injury",
+      "E": "Renal microvascular thrombi\n\""
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  "6004": {
+    "question": "A 74-year-old woman is brought by ambulance to the emergency department and presents with a complaint of excruciating chest pain that started about 45 minutes ago. The patient was sitting in the garden when she 1st noticed the pain in the upper abdomen. The pain has persisted and now localizes underneath of the sternum and the left shoulder. Milk of magnesia and aspirin were tried with no relief. The patient had previous episodes of chest pain that were of lesser intensity and rarely lasted more than 10 minutes. She is diabetic and has been managed for hypertension and rheumatoid arthritis in the past. On examination, the patient is breathless and sweating profusely. The vital signs include blood pressure 140/90 mm Hg and heart rate 118/min. The electrocardiogram (ECG) shows Q waves in leads V2 and V3 and raised ST segments in leads V2, V3, V4, and V5. Laboratory studies (including cardiac enzymes at 6 hours after admission show:\nHematocrit 45%\nTroponin T 1.5 ng/mL\nTroponin I 0.28 ng/mL\nCreatine kinase (CK)-MB 0.25 ng/mL\nThe patient is admitted and started on analgesia and reperfusion therapy. She shows initial signs of recovery until the 6th day of hospitalization when she starts vomiting and complaining of dizziness. Physical examination findings at this time included heart rate 110/min, temperature 37.7°C (99.9°F), blood pressure 90/60 mm Hg. Jugular venous pressure is 8 cm. A harsh pansystolic murmur is present at the left lower sternal border. ECG shows sinus tachycardia and ST-segment elevation with terminal negative T waves. Laboratory studies show:\nHematocrit 38%\nTroponin T 1.15ng/mL\nTroponin I 0.18 ng/mL\nCK-MB 0.10 ng/mL\nWhich of the following best explains the patient's current clinical condition?",
+    "answer": "Acute ventricular septal rupture complicating myocardial infarction",
+    "options": {
+      "A": "A new myocardial infarction (re-infarction)",
+      "B": "Acute pericarditis complicating myocardial infarction",
+      "C": "Acute ventricular septal rupture complicating myocardial infarction",
+      "D": "Aortic dissection complicating myocardial infarction",
+      "E": "Cardiac tamponade complicating myocardial infarction"
+    },
+    "meta_info": "step1",
+    "answer_idx": "C"
+  }
+}
